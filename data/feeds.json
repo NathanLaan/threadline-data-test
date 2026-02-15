@@ -35,6 +35,15 @@
       "description": "Technology & Change: Field Notes From The Present Future",
       "createdAt": "2026-02-15T16:17:11.153Z",
       "updatedAt": "2026-02-15T16:17:11.153Z"
+    },
+    {
+      "id": "92be127a-f77e-4baa-abf7-c9c00cf8bbc3",
+      "title": "The Verge",
+      "url": "https://www.theverge.com/rss/index.xml",
+      "siteUrl": "https://www.theverge.com",
+      "description": null,
+      "createdAt": "2026-02-15T20:05:30.285Z",
+      "updatedAt": "2026-02-15T20:05:30.285Z"
     }
   ]
 }
