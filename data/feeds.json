@@ -7,7 +7,10 @@
       "siteUrl": "https://daringfireball.net/",
       "description": null,
       "createdAt": "2026-02-15T02:39:50.693Z",
-      "updatedAt": "2026-02-15T02:39:50.693Z"
+      "updatedAt": "2026-02-15T02:39:50.693Z",
+      "tagIds": [
+        "4a879be6-cb20-4a60-9bf8-dacb0c81421e"
+      ]
     },
     {
       "id": "aac6f21f-e8ce-43c2-a7f2-bf1d9a5fbc4a",
