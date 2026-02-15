@@ -1,0 +1,13 @@
+{
+  "feeds": [
+    {
+      "id": "c855b463-27a9-4e15-9782-5229ea0fc9fb",
+      "title": "Daring Fireball",
+      "url": "https://daringfireball.net/feeds/main",
+      "siteUrl": "https://daringfireball.net/",
+      "description": null,
+      "createdAt": "2026-02-15T02:39:50.693Z",
+      "updatedAt": "2026-02-15T02:39:50.693Z"
+    }
+  ]
+}
