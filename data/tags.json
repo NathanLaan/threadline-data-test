@@ -5,6 +5,12 @@
       "name": "Technology",
       "createdAt": "2026-02-15T20:32:33.210Z",
       "updatedAt": "2026-02-15T20:32:33.210Z"
+    },
+    {
+      "id": "e5250660-9f9c-483a-9b5a-60e5a0ad8d9d",
+      "name": "AI",
+      "createdAt": "2026-02-15T20:32:56.846Z",
+      "updatedAt": "2026-02-15T20:32:56.846Z"
     }
   ]
 }
