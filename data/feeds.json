@@ -43,7 +43,10 @@
       "siteUrl": "https://www.theverge.com",
       "description": null,
       "createdAt": "2026-02-15T20:05:30.285Z",
-      "updatedAt": "2026-02-15T20:05:30.285Z"
+      "updatedAt": "2026-02-15T20:05:30.285Z",
+      "tagIds": [
+        "c8474781-1b9a-4595-842b-b53ae3235bc6"
+      ]
     }
   ]
 }
