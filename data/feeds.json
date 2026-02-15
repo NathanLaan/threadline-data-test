@@ -16,7 +16,10 @@
       "siteUrl": "https://sixcolors.com",
       "description": "Apple, technology, and other stuff",
       "createdAt": "2026-02-15T16:05:18.183Z",
-      "updatedAt": "2026-02-15T16:05:18.183Z"
+      "updatedAt": "2026-02-15T16:05:18.183Z",
+      "tagIds": [
+        "c8474781-1b9a-4595-842b-b53ae3235bc6"
+      ]
     },
     {
       "id": "9ce431dd-cb86-4416-b9b0-efd025274817",
