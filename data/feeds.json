@@ -93,6 +93,15 @@
       "description": "Technology Simplified",
       "createdAt": "2026-02-16T01:47:19.073Z",
       "updatedAt": "2026-02-16T01:47:19.073Z"
+    },
+    {
+      "id": "f0e14c7e-88ba-42aa-b266-e8c88538d3c1",
+      "title": "Krebs on Security",
+      "url": "https://krebsonsecurity.com/feed/",
+      "siteUrl": "https://krebsonsecurity.com",
+      "description": "In-depth security news and investigation",
+      "createdAt": "2026-02-16T01:47:35.748Z",
+      "updatedAt": "2026-02-16T01:47:35.748Z"
     }
   ]
 }
