@@ -129,6 +129,21 @@
       "description": "Fast Company inspires a new breed of innovative and creative thought leaders who are actively inventing the future of business.",
       "createdAt": "2026-02-16T01:50:12.759Z",
       "updatedAt": "2026-02-16T01:50:12.759Z"
+    },
+    {
+      "id": "e7c783c7-c07b-4f60-b276-d8ba423a0517",
+      "title": "Inc.com",
+      "url": "https://www.inc.com/rss/",
+      "siteUrl": {
+        "$": {
+          "rel": "self",
+          "href": "https://www.inc.com/rss/",
+          "xmlns": "http://www.w3.org/2005/Atom"
+        }
+      },
+      "description": "Inc.com, the daily resource for entrepreneurs.",
+      "createdAt": "2026-02-16T01:50:23.847Z",
+      "updatedAt": "2026-02-16T01:50:23.847Z"
     }
   ]
 }
