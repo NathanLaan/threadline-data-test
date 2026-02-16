@@ -171,6 +171,15 @@
       "description": "MIT news feed about: Artificial intelligence",
       "createdAt": "2026-02-16T01:51:36.598Z",
       "updatedAt": "2026-02-16T01:51:36.598Z"
+    },
+    {
+      "id": "122305a7-db66-44fb-8ab6-2683869dbc5c",
+      "title": "The Hacker News",
+      "url": "https://feeds.feedburner.com/TheHackersNews?format=xml",
+      "siteUrl": "https://thehackernews.com",
+      "description": "Most trusted, widely-read independent cybersecurity news source for everyone; supported by hackers and IT professionals — Send TIPs to admin@thehackernews.com",
+      "createdAt": "2026-02-16T01:52:12.267Z",
+      "updatedAt": "2026-02-16T01:52:12.267Z"
     }
   ]
 }
