@@ -84,6 +84,15 @@
       "description": "Original and proudly opinionated perspectives for Generation T",
       "createdAt": "2026-02-16T01:46:53.993Z",
       "updatedAt": "2026-02-16T01:46:53.993Z"
+    },
+    {
+      "id": "e944247a-6890-4fcd-bb3b-3ee045dddd59",
+      "title": "Fossbytes",
+      "url": "https://fossbytes.com/feed/?x=1",
+      "siteUrl": "https://fossbytes.com/",
+      "description": "Technology Simplified",
+      "createdAt": "2026-02-16T01:47:19.073Z",
+      "updatedAt": "2026-02-16T01:47:19.073Z"
     }
   ]
 }
