@@ -144,6 +144,15 @@
       "description": "Inc.com, the daily resource for entrepreneurs.",
       "createdAt": "2026-02-16T01:50:23.847Z",
       "updatedAt": "2026-02-16T01:50:23.847Z"
+    },
+    {
+      "id": "84fab3ec-fd2e-4517-974a-9554d0a3eebf",
+      "title": "Seth's Blog",
+      "url": "https://seths.blog/feed/",
+      "siteUrl": "https://seths.blog",
+      "description": "Seth Godin's Blog on marketing, tribes and respect",
+      "createdAt": "2026-02-16T01:50:36.170Z",
+      "updatedAt": "2026-02-16T01:50:36.170Z"
     }
   ]
 }
