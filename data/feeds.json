@@ -189,6 +189,15 @@
       "description": "Cybersecurity keynote speaker",
       "createdAt": "2026-02-16T01:52:21.773Z",
       "updatedAt": "2026-02-16T01:52:21.773Z"
+    },
+    {
+      "id": "830cefe0-7497-4855-aacc-d05867aa157a",
+      "title": "Critical BeyondTrust RS vulnerability exploited in active attacks | CSO Online",
+      "url": "https://www.csoonline.com/feed/",
+      "siteUrl": "https://www.csoonline.com",
+      "description": "Security at the speed of business",
+      "createdAt": "2026-02-16T01:52:30.526Z",
+      "updatedAt": "2026-02-16T01:52:30.526Z"
     }
   ]
 }
