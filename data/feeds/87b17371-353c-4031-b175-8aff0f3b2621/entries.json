@@ -1,0 +1,225 @@
+{
+  "feedId": "87b17371-353c-4031-b175-8aff0f3b2621",
+  "entries": [
+    {
+      "id": "62fa0679-7ae1-4a54-95b2-c111fb11bdd8",
+      "guid": "https://techcrunch.com/?p=3093187",
+      "title": "As AI data centers hit power limits, Peak XV backs Indian startup C2i to fix the bottleneck",
+      "link": "https://techcrunch.com/2026/02/15/as-ai-data-centers-hit-power-limits-peak-xv-backs-indian-startup-c2i-to-fix-the-bottleneck/",
+      "content": "C2i has raised $15 million as it tests a grid-to-GPU approach to reducing power losses in AI data centers.",
+      "author": "Jagmeet Singh",
+      "publishedAt": "2026-02-16T01:00:00.000Z",
+      "isRead": false,
+      "createdAt": "2026-02-16T01:45:56.793Z"
+    },
+    {
+      "id": "ab9dd4c0-6fe8-46f0-933a-22073f92e265",
+      "guid": "https://techcrunch.com/?p=3093252",
+      "title": "Blackstone backs Neysa in up to $1.2B financing as India pushes to build domestic AI infrastructure",
+      "link": "https://techcrunch.com/2026/02/15/blackstone-backs-neysa-in-up-to-1-2b-financing-as-india-pushes-to-build-domestic-ai-compute/",
+      "content": "Neysa is targeting deployments of more than 20,000 GPUs over time as demand for local AI compute accelerates.",
+      "author": "Jagmeet Singh",
+      "publishedAt": "2026-02-16T00:30:00.000Z",
+      "isRead": false,
+      "createdAt": "2026-02-16T01:45:56.793Z"
+    },
+    {
+      "id": "2d914777-19d6-4e22-bace-582fbeb7c1e9",
+      "guid": "https://techcrunch.com/?p=3093271",
+      "title": "OpenClaw creator Peter Steinberger joins OpenAI",
+      "link": "https://techcrunch.com/2026/02/15/openclaw-creator-peter-steinberger-joins-openai/",
+      "content": "OpenAI said OpenClaw will live on as an open source project.",
+      "author": "Anthony Ha",
+      "publishedAt": "2026-02-15T22:28:02.000Z",
+      "isRead": false,
+      "createdAt": "2026-02-16T01:45:56.793Z"
+    },
+    {
+      "id": "188bf7bb-5374-4202-8517-b53dda436466",
+      "guid": "https://techcrunch.com/?p=3093266",
+      "title": "Longtime NPR host David Greene sues Google over NotebookLM voice",
+      "link": "https://techcrunch.com/2026/02/15/longtime-npr-host-david-greene-sues-google-over-notebooklm-voice/",
+      "content": "The longtime host of NPR’s “Morning Edition,” is suing Google, alleging that the male podcast voice in the company’s NotebookLM tool is based on him.",
+      "author": "Anthony Ha",
+      "publishedAt": "2026-02-15T22:07:51.000Z",
+      "isRead": false,
+      "createdAt": "2026-02-16T01:45:56.793Z"
+    },
+    {
+      "id": "f666736b-9c17-4587-ba76-82ed164dc59a",
+      "guid": "https://techcrunch.com/?p=3093256",
+      "title": "Anthropic and the Pentagon are reportedly arguing over Claude usage",
+      "link": "https://techcrunch.com/2026/02/15/anthropic-and-the-pentagon-are-reportedly-arguing-over-claude-usage/",
+      "content": "The apparent issue: whether Claude can be used for mass domestic surveillance and autonomous weapons.",
+      "author": "Anthony Ha",
+      "publishedAt": "2026-02-15T21:11:28.000Z",
+      "isRead": false,
+      "createdAt": "2026-02-16T01:45:56.793Z"
+    },
+    {
+      "id": "46ebef26-ce80-4855-89cc-e5f77e2ac73e",
+      "guid": "https://techcrunch.com/?p=3093246",
+      "title": "India has 100M weekly active ChatGPT users, Sam Altman says",
+      "link": "https://techcrunch.com/2026/02/15/india-has-100m-weekly-active-chatgpt-users-sam-altman-says/",
+      "content": "OpenAI CEO Sam Altman says India has the largest number of student users of ChatGPT worldwide.",
+      "author": "Jagmeet Singh",
+      "publishedAt": "2026-02-15T18:00:00.000Z",
+      "isRead": false,
+      "createdAt": "2026-02-16T01:45:56.793Z"
+    },
+    {
+      "id": "523fb986-4857-4feb-b329-dfe5ca373d2a",
+      "guid": "https://techcrunch.com/?p=3093083",
+      "title": "The enterprise AI land grab is on. Glean is building the layer beneath the interface.",
+      "link": "https://techcrunch.com/2026/02/15/the-enterprise-ai-land-grab-is-on-glean-is-building-the-layer-beneath-the-interface/",
+      "content": "In this week's episode of the Equity podcast, Glean CEO Arvind Jain explains the company's shift from enterprise search tool to middleware layer for enterprise AI. ",
+      "author": "Rebecca Bellan",
+      "publishedAt": "2026-02-15T17:30:00.000Z",
+      "isRead": false,
+      "createdAt": "2026-02-16T01:45:56.793Z"
+    },
+    {
+      "id": "93796991-a11c-42ff-b3f1-0724944bd765",
+      "guid": "https://techcrunch.com/?p=3093020",
+      "title": "TechCrunch Mobility: Rivian’s savior",
+      "link": "https://techcrunch.com/2026/02/15/techcrunch-mobility-rivians-savior/",
+      "content": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation. ",
+      "author": "Kirsten Korosec",
+      "publishedAt": "2026-02-15T17:05:00.000Z",
+      "isRead": false,
+      "createdAt": "2026-02-16T01:45:56.793Z"
+    },
+    {
+      "id": "ea911334-4371-4a38-ad61-b5ff73c60a6d",
+      "guid": "https://techcrunch.com/?p=3093240",
+      "title": "What the Epstein files reveal about EV startups and Silicon Valley",
+      "link": "https://techcrunch.com/2026/02/15/what-the-epstein-files-reveal-about-ev-startups-and-silicon-valley/",
+      "content": "Will the Epstein revelations lead to broader fallout in Silicon Valley?",
+      "author": "Anthony Ha",
+      "publishedAt": "2026-02-15T16:54:12.000Z",
+      "isRead": false,
+      "createdAt": "2026-02-16T01:45:56.793Z"
+    },
+    {
+      "id": "a62161dc-8cbc-4ae9-a4c4-c715a4e42bdf",
+      "guid": "https://techcrunch.com/?p=3091907",
+      "title": "How to get into a16z’s super-competitive Speedrun startup accelerator program",
+      "link": "https://techcrunch.com/2026/02/15/how-to-get-into-a16zs-super-competitive-speedrun-startup-accelerator-program/",
+      "content": "TechCrunch spoke to a16z partner Joshua Lu for some tips on standing out for the Speedrun program. ",
+      "author": "Dominic-Madori Davis",
+      "publishedAt": "2026-02-15T15:53:53.000Z",
+      "isRead": false,
+      "createdAt": "2026-02-16T01:45:56.793Z"
+    },
+    {
+      "id": "17c2d240-c3b0-42ae-9fd4-09b724653ef4",
+      "guid": "https://techcrunch.com/?p=3093184",
+      "title": "Hollywood isn’t happy about the new Seedance 2.0 video generator",
+      "link": "https://techcrunch.com/2026/02/15/hollywood-isnt-happy-about-the-new-seedance-2-0-video-generator/",
+      "content": "Hollywood organizations are pushing back against a new AI video model called Seedance 2.0, which they say has quickly become a tool for “blatant” copyright infringement.",
+      "author": "Anthony Ha",
+      "publishedAt": "2026-02-15T15:41:16.000Z",
+      "isRead": false,
+      "createdAt": "2026-02-16T01:45:56.793Z"
+    },
+    {
+      "id": "ee33db09-a5d9-4896-8173-ade6e8ae2a88",
+      "guid": "https://techcrunch.com/?p=3093211",
+      "title": "The great computer science exodus (and where students are going instead)",
+      "link": "https://techcrunch.com/2026/02/15/the-great-computer-science-exodus-and-where-students-are-going-instead/",
+      "content": "Students are losing some interest in computer science broadly but gaining interest in AI-specific majors and courses. ",
+      "author": "Connie Loizos",
+      "publishedAt": "2026-02-15T08:40:27.000Z",
+      "isRead": false,
+      "createdAt": "2026-02-16T01:45:56.793Z"
+    },
+    {
+      "id": "73eac6aa-80db-41b8-9c9f-99d2f4bbbe18",
+      "guid": "https://techcrunch.com/?p=3093205",
+      "title": "Homeland Security reportedly sent hundreds of subpoenas seeking to unmask anti-ICE accounts",
+      "link": "https://techcrunch.com/2026/02/14/homeland-security-reportedly-sent-hundreds-of-subpoenas-seeking-to-unmask-anti-ice-accounts/",
+      "content": "The Department of Homeland Security has been increasing pressure on tech companies to identify the owners of accounts that criticize ICE.",
+      "author": "Anthony Ha",
+      "publishedAt": "2026-02-14T22:30:00.000Z",
+      "isRead": false,
+      "createdAt": "2026-02-16T01:45:56.793Z"
+    },
+    {
+      "id": "721f9d46-9a65-4bce-9f4b-053eeb9392df",
+      "guid": "https://techcrunch.com/?p=3093200",
+      "title": "Is safety ‘dead’ at xAI?",
+      "link": "https://techcrunch.com/2026/02/14/is-safety-is-dead-at-xai/",
+      "content": "Elon Musk is “actively” working to make xAI’s Grok chatbot “more unhinged, according to a former employee.",
+      "author": "Anthony Ha",
+      "publishedAt": "2026-02-14T21:55:44.000Z",
+      "isRead": false,
+      "createdAt": "2026-02-16T01:45:56.793Z"
+    },
+    {
+      "id": "07f28413-4c0f-44a8-b554-626c33c1b2a1",
+      "guid": "https://techcrunch.com/?p=3092452",
+      "title": "In a changed VC landscape, this exec is doubling down on overlooked founders",
+      "link": "https://techcrunch.com/2026/02/14/stacy-brown-philpot-cherryrock-capital-vc/",
+      "content": "As much of Silicon Valley chases mega-rounds and buzzy AI deals, Stacy Brown-Philpot is running Cherryrock Capital like a throwback to venture capital's earlier days",
+      "author": "Connie Loizos",
+      "publishedAt": "2026-02-14T20:37:42.000Z",
+      "isRead": false,
+      "createdAt": "2026-02-16T01:45:56.793Z"
+    },
+    {
+      "id": "39f1bbef-0b51-4dce-8cf4-7fb80c5a17ff",
+      "guid": "https://techcrunch.com/?p=3092988",
+      "title": "‘Clueless’ -inspired app Alta partners with brand Public School to start integrating styling tools into websites",
+      "link": "https://techcrunch.com/2026/02/14/clueless-inspired-app-alta-partners-with-brand-public-school-to-start-integrating-styling-tools-into-websites/",
+      "content": " This week, Alta unveiled its first integration collaboration, teaming up with Public School, a storied New York City brand. \n\n",
+      "author": "Dominic-Madori Davis",
+      "publishedAt": "2026-02-14T19:00:00.000Z",
+      "isRead": false,
+      "createdAt": "2026-02-16T01:45:56.793Z"
+    },
+    {
+      "id": "2f093cae-d898-41ab-acd6-5d1e19fa7cfb",
+      "guid": "https://techcrunch.com/?p=3093023",
+      "title": "Designer Kate Barton teams up with IBM and Fiducia AI for a NYFW presentation",
+      "link": "https://techcrunch.com/2026/02/14/designer-kate-barton-teams-up-with-ibm-and-fiducia-ai-for-a-nyfw-presentation/",
+      "content": "Designer Kate Barton teams up with Fiducia AI and IBM for a NYFW presentation. ",
+      "author": "Dominic-Madori Davis",
+      "publishedAt": "2026-02-14T17:43:46.000Z",
+      "isRead": false,
+      "createdAt": "2026-02-16T01:45:56.793Z"
+    },
+    {
+      "id": "db3bc98c-7048-405c-a086-cabd4d53100d",
+      "guid": "https://techcrunch.com/?p=3093154",
+      "title": "India doubles down on state-backed venture capital, approving $1.1B fund",
+      "link": "https://techcrunch.com/2026/02/14/india-doubles-down-on-state-backed-venture-capital-approving-1-1b-fund/",
+      "content": "India’s $1.1B fund-of-funds will invest through private VCs to support deep-tech and manufacturing startups.",
+      "author": "Jagmeet Singh",
+      "publishedAt": "2026-02-14T16:23:22.000Z",
+      "isRead": false,
+      "createdAt": "2026-02-16T01:45:56.793Z"
+    },
+    {
+      "id": "8f09afd6-eb4e-401e-ad29-c3fdb5bdc821",
+      "guid": "https://techcrunch.com/?p=3092800",
+      "title": "Nothing opens its first retail store in India",
+      "link": "https://techcrunch.com/2026/02/13/nothing-opens-its-first-retail-store-in-india/",
+      "content": "The two-story location will sell products from Nothing and the more affordable, mass-market brand CMF.",
+      "author": "Ivan Mehta",
+      "publishedAt": "2026-02-14T06:30:00.000Z",
+      "isRead": false,
+      "createdAt": "2026-02-16T01:45:56.793Z"
+    },
+    {
+      "id": "8b02729b-ebcb-4e61-a405-914482df00d7",
+      "guid": "https://techcrunch.com/?p=3092377",
+      "title": "Indian pharmacy chain giant exposed customer data and internal systems",
+      "link": "https://techcrunch.com/2026/02/13/indias-major-pharmacy-chain-exposed-customer-data-and-internal-systems/",
+      "content": "A backend flaw in web admin dashboards used by one of India's largest pharmacy chains, exposed thousands of online pharmacy orders.",
+      "author": "Jagmeet Singh",
+      "publishedAt": "2026-02-14T03:30:00.000Z",
+      "isRead": false,
+      "createdAt": "2026-02-16T01:45:56.793Z"
+    }
+  ]
+}
