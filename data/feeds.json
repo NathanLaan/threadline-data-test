@@ -180,6 +180,15 @@
       "description": "Most trusted, widely-read independent cybersecurity news source for everyone; supported by hackers and IT professionals — Send TIPs to admin@thehackernews.com",
       "createdAt": "2026-02-16T01:52:12.267Z",
       "updatedAt": "2026-02-16T01:52:12.267Z"
+    },
+    {
+      "id": "dd48b48d-17e8-4bf2-a4e7-9fd0b4578f91",
+      "title": "GRAHAM CLULEY",
+      "url": "https://www.grahamcluley.com/feed/",
+      "siteUrl": "https://grahamcluley.com",
+      "description": "Cybersecurity keynote speaker",
+      "createdAt": "2026-02-16T01:52:21.773Z",
+      "updatedAt": "2026-02-16T01:52:21.773Z"
     }
   ]
 }

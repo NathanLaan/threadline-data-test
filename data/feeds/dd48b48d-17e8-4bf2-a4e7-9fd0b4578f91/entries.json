@@ -1,0 +1,225 @@
+{
+  "feedId": "dd48b48d-17e8-4bf2-a4e7-9fd0b4578f91",
+  "entries": [
+    {
+      "id": "fbfb3954-eae9-4a19-89bd-9520c3661acf",
+      "guid": "https://grahamcluley.com/?p=17350417",
+      "title": "Urgent warnings from UK and US cyber agencies after Polish energy grid attack",
+      "link": "https://www.fortra.com/blog/urgent-warnings-uk-and-us-cyber-agencies-after-polish-energy-grid-attack",
+      "content": "A coordinated cyberattack that targeted Poland's energy infrastructure in late December 2025 has prompted cybersecurity agencies to issue urgent warnings to critical national infrastructure operators on both sides of the Atlantic.\r\n\r\nRead more in my article on the Fortra blog.",
+      "author": "Graham Cluley",
+      "publishedAt": "2026-02-12T18:47:52.000Z",
+      "isRead": false,
+      "createdAt": "2026-02-16T01:52:21.776Z"
+    },
+    {
+      "id": "67de24ac-7bf4-40b5-a1b6-562d79190fd8",
+      "guid": "https://grahamcluley.com/?p=17350411",
+      "title": "Polish hacker charged seven years after massive Morele.net data breach",
+      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/polish-hacker-charged-seven-years-after-massive-morele-net-data-breach",
+      "content": "A 29-year-old Polish man has been charged in connection with a data breach that exposed the personal details of around 2.5 million customers of the popular Polish e-commerce website Morele.net.\r\n\r\nRead more in my article on the Hot for Security blog.",
+      "author": "Graham Cluley",
+      "publishedAt": "2026-02-12T08:04:15.000Z",
+      "isRead": false,
+      "createdAt": "2026-02-16T01:52:21.776Z"
+    },
+    {
+      "id": "965e9c6b-b034-4f4e-a2b2-b4b9f243383a",
+      "guid": "https://grahamcluley.com/?p=17350400",
+      "title": "Smashing Security podcast #454: AI was not plotting humanity’s demise. Humans were",
+      "link": "https://grahamcluley.com/smashing-security-podcast-454/",
+      "content": "AI bots are having existential crises, inventing religions, and allegedly plotting against humanity... or so the internet would have you believe.\r\n\r\nWe dig into Moltbook, the “AI-only” social network that sent Twitter into a meltdown, attracted breathless talk of the singularity, and turned out to be far less Terminator and far more humans role-playing as bots.\r\n\r\nPlus we discuss why \"vibe coding\" your app might be a catastrophically bad idea, when security researchers can easily peek inside rifle through your private messages, API keys, and databases.\r\n\r\nAlso this week we learn that pro-Russian hackers are circling the Winter Olympics - or is it the Jamaican Bobsleigh team?\r\n\r\nAll this and more is discussed in episode 454 of the \"Smashing Security\" podcast with cybersecurity veteran Graham Cluley, and special guest Iain Thomson.",
+      "author": "Graham Cluley",
+      "publishedAt": "2026-02-12T00:30:32.000Z",
+      "isRead": false,
+      "createdAt": "2026-02-16T01:52:21.776Z"
+    },
+    {
+      "id": "8d5acded-9742-4555-a02f-b31d8a835ed2",
+      "guid": "https://grahamcluley.com/?p=17350317",
+      "title": "Fake Dubai Crown Prince tracked to Nigerian mansion after $2.5M romance scam",
+      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/fake-dubai-crown-prince-tracked-to-nigerian-mansion-after-2-5m-romance-scam",
+      "content": "When a Romanian businesswoman fell for a fake Dubai Crown Prince in a $2.5 million romance scam, investigators tracked the fraudster to his Nigerian mansion - only to discover he was masquerading as a campaigning philanthropist.\r\n\r\nRead more in my article on the Hot for Security blog.",
+      "author": "Graham Cluley",
+      "publishedAt": "2026-02-07T13:19:52.000Z",
+      "isRead": false,
+      "createdAt": "2026-02-16T01:52:21.776Z"
+    },
+    {
+      "id": "d3f85b9c-5fe3-48d0-9fcb-4bc2ec4cacf2",
+      "guid": "https://grahamcluley.com/?p=17350284",
+      "title": "Incognito Market admin sentenced to 30 years for running $105 million dark web drug empire",
+      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/incognito-market-admin-sentenced-30-years-105-million-dark-web-drug-empire",
+      "content": "He promised \"the best security there is\" to hundreds of thousands of drug buyers, while quietly making the kind of mistake that guaranteed a 30-year sentence.  And maybe training police on cryptocurrency while running a running a vast Tor-hidden drug bazaar wasn't such a good idea.\r\n\r\nRead more in my article on the Hot for Security blog.",
+      "author": "Graham Cluley",
+      "publishedAt": "2026-02-05T20:15:09.000Z",
+      "isRead": false,
+      "createdAt": "2026-02-16T01:52:21.776Z"
+    },
+    {
+      "id": "23485c58-cb0e-4b52-841c-dad65a0d38a4",
+      "guid": "https://grahamcluley.com/?p=17350277",
+      "title": "Smashing Security podcast #453: The Epstein Files didn’t hide this hacker very well",
+      "link": "https://grahamcluley.com/smashing-security-podcast-453/",
+      "content": "Supposedly redacted Jeffrey Epstein files can still reveal exactly who they’re talking about - especially when AI, LinkedIn, and a few biographical breadcrumbs do the heavy lifting.\r\n\r\nSloppy redaction leads to explosive claims, and difficult reputational consequences for cybersecurity vendors, and we learn how trust - once cracked - can be almost impossible to fully restore.\r\n\r\nElsewhere, the spotlight turns to insider threat in the age of AI, after a senior US cybersecurity official uploads sensitive government material into the public version of ChatGPT. Oops.\r\n\r\nAll this, and much more, in episode 453 of Smashing Security with cybersecurity veteran Graham Cluley and special guest Tricia Howard.",
+      "author": "Graham Cluley",
+      "publishedAt": "2026-02-05T00:30:54.000Z",
+      "isRead": false,
+      "createdAt": "2026-02-16T01:52:21.776Z"
+    },
+    {
+      "id": "f5cdb75d-b7c2-4678-8bc4-ca292de1f812",
+      "guid": "https://grahamcluley.com/?p=17350268",
+      "title": "FBI takes notorious RAMP ransomware forum offline",
+      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/fbi-takes-notorious-ramp-ransomware-forum-offline",
+      "content": "The FBI has seized control of RAMP, a notorious cybercrime online forum that bragged to be the only place that allowed ransomware, and boasted over 14,000 active users.\r\n\r\nNow some of those users' details are likely to be in the hands of the police...\r\n\r\nRead more in my article on the Bitdefender blog.",
+      "author": "Graham Cluley",
+      "publishedAt": "2026-01-31T09:43:26.000Z",
+      "isRead": false,
+      "createdAt": "2026-02-16T01:52:21.776Z"
+    },
+    {
+      "id": "71ceb407-c57a-4bd3-8d69-0cdc2de228a4",
+      "guid": "https://grahamcluley.com/?p=17350217",
+      "title": "Hacking attack leaves Russian car owners locked out of their vehicles",
+      "link": "https://www.fortra.com/blog/hacking-attack-leaves-russian-car-owners-locked-out-their-vehicles",
+      "content": "Imagine the scene. It's a cold Monday morning in Moscow. You walk out to your car, coffee in hand, ready to face the day. You press the button to unlock your car, and ... nothing happens. You try again. Still nothing. The alarm starts blaring. You can't turn it off.\r\n\r\nRead more in my article on the Fortra blog.",
+      "author": "Graham Cluley",
+      "publishedAt": "2026-01-29T20:57:05.000Z",
+      "isRead": false,
+      "createdAt": "2026-02-16T01:52:21.776Z"
+    },
+    {
+      "id": "99d2be38-9123-4400-aa1b-910cc024b066",
+      "guid": "https://grahamcluley.com/?p=17350203",
+      "title": "Smashing Security podcast #452: The dark web’s worst assassins, and Pegasus in the dock",
+      "link": "https://grahamcluley.com/smashing-security-podcast-452/",
+      "content": "In episode 452, a London-based YouTuber wins a landmark court case against Saudi Arabia after his phone was hacked with Pegasus spyware — exposing how a single, seemingly harmless text message can turn a smartphone into a round-the-clock surveillance device.\r\n\r\nPlus, we go looking for professional hitmen online - only to uncover uncomfortable questions about why some crimes attract customers but very few complaints.\r\n\r\nAll this and more is discussed in the latest edition of the \"Smashing Security\" podcast by cybersecurity veteran Graham Cluley, joined this week by special guest Joe Tidy.",
+      "author": "Graham Cluley",
+      "publishedAt": "2026-01-29T00:30:58.000Z",
+      "isRead": false,
+      "createdAt": "2026-02-16T01:52:21.776Z"
+    },
+    {
+      "id": "e4911df4-10b5-4802-9609-d177d33c2cc7",
+      "guid": "https://grahamcluley.com/?p=17350211",
+      "title": "Four arrested in crackdown on Discord-based SWATting and doxing",
+      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/four-arrested-crackdown-discord-swatting-doxing",
+      "content": "How badly do you want to win an online argument? I certainly hope it's not enough to put the life of the other person at risk.\r\n\r\nPolice in Hungary and Romania have arrested four young men suspected of making hoax bomb threats and terrorising internet users through SWATting and doxing attacks.\r\n\r\nRead more in my article on the Hot for Security blog.",
+      "author": "Graham Cluley",
+      "publishedAt": "2026-01-28T20:14:41.000Z",
+      "isRead": false,
+      "createdAt": "2026-02-16T01:52:21.776Z"
+    },
+    {
+      "id": "2e30dae3-e92a-4d77-8ca4-3b848816bc35",
+      "guid": "https://grahamcluley.com/?p=17350183",
+      "title": "Beware! Fake ChatGPT browser extensions are stealing your login credentials",
+      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/beware-fake-chatgpt-browser-extensions-are-stealing-your-login-credentials",
+      "content": "If you've installed a browser extension to enhance your ChatGPT experience, you might want to think again.\r\n\r\nRead more in my article on the Hot for Security blog.",
+      "author": "Graham Cluley",
+      "publishedAt": "2026-01-28T09:20:29.000Z",
+      "isRead": false,
+      "createdAt": "2026-02-16T01:52:21.776Z"
+    },
+    {
+      "id": "8fbc5bda-5a78-4e97-9cda-5c8115f83db4",
+      "guid": "https://grahamcluley.com/?p=17350172",
+      "title": "The AI Fix #85: ChatGPT gets ads, pets get AI therapists, and everyone’s wrong about LLMs",
+      "link": "https://grahamcluley.com/the-ai-fix-85/",
+      "content": "In episode 85 of The AI Fix, Graham discovers that Silicon Valley has the solution to your pet's mental health crisis, and Mark explains why AI godfather Yann LeCun thinks the entire AI industry is wrong about LLMs.\r\n\r\nAlso in this episode, OpenAI decides to ruin ChatGPT with ads; Sam Altman and Elon Musk and have a public spat over whose AI is more murderous; humanoid robots turn up at CES 2026 and answer of whether robots can fight—with a resounding \"no\"; and AI slop forces the beloved cURL project to shut down its bug bounty program.\r\n\r\nAll this and much more is discussed in the latest edition of \"The AI Fix\" podcast by Graham Cluley and Mark Stockley.",
+      "author": "Graham Cluley",
+      "publishedAt": "2026-01-27T15:12:46.000Z",
+      "isRead": false,
+      "createdAt": "2026-02-16T01:52:21.776Z"
+    },
+    {
+      "id": "56dfb4c0-f76d-4551-b739-4b4794f5a84f",
+      "guid": "https://grahamcluley.com/?p=17350131",
+      "title": "European Space Agency’s cybersecurity in freefall as yet another breach exposes spacecraft and mission data",
+      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/european-space-agencys-cybersecurity-in-freefall-as-yet-another-breach-exposes-spacecraft-and-mission-data",
+      "content": "It has just been a few weeks since reports emerged of the Christmas cyber attack suffered by the European Space Agency (ESA), and the situation has already become worse.\r\n\r\nRead more in my article on the Hot for Security blog.",
+      "author": "Graham Cluley",
+      "publishedAt": "2026-01-22T09:18:39.000Z",
+      "isRead": false,
+      "createdAt": "2026-02-16T01:52:21.776Z"
+    },
+    {
+      "id": "58e600d3-f870-4c2c-b006-d8c3b6e1394e",
+      "guid": "https://grahamcluley.com/?p=17350125",
+      "title": "Smashing Security podcast #451: I hacked the government, and your headphones are next",
+      "link": "https://grahamcluley.com/smashing-security-podcast-451/",
+      "content": "In episode 451 of \"Smashing Security,\" we meet the cybercriminal who hacked the US Supreme Court, Veterans Affairs, and more - and then helpfully posted screenshots (and even someone’s blood type) on an account called \"I hacked the government.\"\r\n\r\nPlus we discuss how researchers uncovered a creepy flaw that lets attackers hijack wireless headphones, listen in on calls, inject audio, and even turn your earbuds into a stalking device - all without you noticing.\r\n\r\nAll this, and much more, in this episode of the \"Smashing Security\" podcast with Graham Cluley, and special guest Ray [REDACTED]",
+      "author": "Graham Cluley",
+      "publishedAt": "2026-01-22T00:30:42.000Z",
+      "isRead": false,
+      "createdAt": "2026-02-16T01:52:21.776Z"
+    },
+    {
+      "id": "aa9e7ce1-a712-4b8d-8eb5-872ffdb397c8",
+      "guid": "https://grahamcluley.com/?p=17350111",
+      "title": "Pro-Russian denial-of-service attacks target UK, NCSC warns",
+      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/pro-russian-denial-of-service-attacks-target-uk-ncsc-warns",
+      "content": "The UK's National Cyber Security Centre (NCSC) has issued a warning about the threat posed by distributed denial-of-service (DDoS) attacks from Russia-linked hacking groups who are reported to be continuing to target British organisations.\r\n\r\nAre you prepared?\r\n\r\nRead more in my article on the Hot for Security blog.",
+      "author": "Graham Cluley",
+      "publishedAt": "2026-01-21T10:48:52.000Z",
+      "isRead": false,
+      "createdAt": "2026-02-16T01:52:21.776Z"
+    },
+    {
+      "id": "9230d7e2-4148-48c8-bdb6-8412776c7d8b",
+      "guid": "https://grahamcluley.com/?p=17350072",
+      "title": "The AI Fix #84: A hungry ghost trapped in a jar gains access to the Pentagon’s network",
+      "link": "https://grahamcluley.com/the-ai-fix-84/",
+      "content": "In episode 84 of The AI Fix, Graham and Mark stare straight into the digital abyss and ask the most important question of our age: \"Is AI just a hungry ghost trapped in a jar?\"\r\n\r\nAlso this week, we explore how a shadowy group of disgruntled insiders trying to destroy AI by poisoning its training data, how \"vibe-coding\" has stopped being a joke with even Linus Torvalds joining in, how Google’s AI health advice could have endangered lives, and why simply asking an AI the same question twice can turn it from clueless to near-omniscient.\r\n\r\nOh, and AI has managed to crack some famously unsolved maths problems in minutes, and Grok gains access to all of the Pentagon's networks?  What could possibly go wrong?\r\n\r\nAll this and much more is discussed in the latest edition of \"The AI Fix\" podcast by Graham Cluley and Mark Stockley.",
+      "author": "Graham Cluley",
+      "publishedAt": "2026-01-20T15:30:36.000Z",
+      "isRead": false,
+      "createdAt": "2026-02-16T01:52:21.776Z"
+    },
+    {
+      "id": "dd91471a-7f97-4ad2-8e7f-5d2b9a543bdc",
+      "guid": "https://grahamcluley.com/?p=17350003",
+      "title": "WEF: AI overtakes ransomware as fastest-growing cyber risk",
+      "link": "https://www.fortra.com/blog/wef-ai-overtakes-ransomware-fastest-growing-cyber-risk",
+      "content": "We can no longer say that artificial intelligence is a \"future risk\", lurking somewhere on a speculative threat horizon. The truth is that it is a fast-growing cybersecurity risk that organizations are facing today.\r\n\r\nThat's not just my opinion, that's also the message that comes loud and clear from the World Economic Forum's newly-published \"Global Cybersecurity Outlook 2026.\" \r\n\r\nRead more in my article on the Fortra blog.",
+      "author": "Graham Cluley",
+      "publishedAt": "2026-01-15T17:05:07.000Z",
+      "isRead": false,
+      "createdAt": "2026-02-16T01:52:21.776Z"
+    },
+    {
+      "id": "8913fe61-4699-44d1-a7de-4c32c249abd7",
+      "guid": "https://grahamcluley.com/?p=17349989",
+      "title": "Smashing Security podcast #450: From Instagram panic to Grok gone wild",
+      "link": "https://grahamcluley.com/smashing-security-podcast-450/",
+      "content": "Confusion reigns after claims that data linked to 17.5 million Instagram accounts is up for sale - sparked by a vague post, contradictory statements, and a flood of password reset emails nobody asked for.\r\n\r\nAnd we dig into Grok, Elon Musk’s AI chatbot, after it started generating sexualised images of women and children - raising uncomfortable questions about guardrails, accountability, and why playing the censorship card doesn’t make the problem go away.\r\n\r\nAll this, and much more, in episode 450 of the \"Smashing Security\" podcast with Graham Cluley, and special guest Monica Verma.",
+      "author": "Graham Cluley",
+      "publishedAt": "2026-01-15T14:22:53.000Z",
+      "isRead": false,
+      "createdAt": "2026-02-16T01:52:21.776Z"
+    },
+    {
+      "id": "551bfc33-b8b0-400d-9d37-c2b476c93af3",
+      "guid": "https://grahamcluley.com/?p=17349920",
+      "title": "The AI Fix #83: ChatGPT Health, Victorian LLMs, and the biggest AI bluffers",
+      "link": "https://grahamcluley.com/the-ai-fix-83/",
+      "content": "In episode 83 of The AI Fix, Graham reveals he's taken up lying to LLMs, and shows how a journalist exposed AI bluffers with a made-up idiom. Meanwhile Mark invents a \"Godwin's Law\" for AI, and explains how to ruin any LLM with humus.\r\n\r\nAlso in this episode, a marriage is declared invalid thanks to ChatGPT, an AI barman looks for a job in a quiet pub, OpenAI finally unveils ChatGPT Health, and why news of the death of Stack Overflow may be greatly exaggerated.\r\n\r\nAll this and much more is discussed in the latest edition of \"The AI Fix\" podcast by Graham Cluley and Mark Stockley.",
+      "author": "Graham Cluley",
+      "publishedAt": "2026-01-13T18:19:04.000Z",
+      "isRead": false,
+      "createdAt": "2026-02-16T01:52:21.776Z"
+    },
+    {
+      "id": "93fc659b-1a47-4595-8405-f65b77c37544",
+      "guid": "https://grahamcluley.com/?p=17349898",
+      "title": "Hackers get hacked, as BreachForums database is leaked",
+      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/hackers-get-hacked-as-breachforums-database-is-leaked",
+      "content": "Have you ever stolen data, traded a hacking tool, or just lurked on a dark web forum believing that you are anonymous?\r\n\r\nIf so, I might have some unsettling news for you.\r\n\r\nRead more in my article on the Hot for Security blog.",
+      "author": "Graham Cluley",
+      "publishedAt": "2026-01-13T09:45:11.000Z",
+      "isRead": false,
+      "createdAt": "2026-02-16T01:52:21.776Z"
+    }
+  ]
+}
