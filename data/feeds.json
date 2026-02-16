@@ -102,6 +102,15 @@
       "description": "In-depth security news and investigation",
       "createdAt": "2026-02-16T01:47:35.748Z",
       "updatedAt": "2026-02-16T01:47:35.748Z"
+    },
+    {
+      "id": "980b560d-3429-4dea-a0da-63d7ea3344d3",
+      "title": "Bored Giant",
+      "url": "https://boredgiant.com/feed/",
+      "siteUrl": "https://boredgiant.com",
+      "description": "Apps and games for creatives.",
+      "createdAt": "2026-02-16T01:48:28.051Z",
+      "updatedAt": "2026-02-16T01:48:28.051Z"
     }
   ]
 }

@@ -1,0 +1,115 @@
+{
+  "feedId": "980b560d-3429-4dea-a0da-63d7ea3344d3",
+  "entries": [
+    {
+      "id": "defd7178-6463-4330-a3ca-fee16f013ac2",
+      "guid": "https://boredgiant.com/?p=3686",
+      "title": "Real-Time Online Collaboration: How Teams Work Together Without Borders",
+      "link": "https://boredgiant.com/2025/12/19/real-time-online-collaboration-how-teams-work-together-without-borders/",
+      "content": "Real-time online collaboration enables people to work together simultaneously across shared digital spaces, regardless of location. By allowing instant editing, communication, and feedback, these tools eliminate version conflicts, accelerate decision-making, and unlock global teamwork. From document editing and design to software development and education, real-time collaboration has become a core pillar of modern digital productivity.",
+      "author": "admin",
+      "publishedAt": "2025-12-19T04:19:33.000Z",
+      "isRead": false,
+      "createdAt": "2026-02-16T01:48:28.053Z"
+    },
+    {
+      "id": "2b62c6c8-3d47-4b00-8d40-e46d7f833fa8",
+      "guid": "https://boredgiant.com/?p=3688",
+      "title": "Identity Management for Businesses",
+      "link": "https://boredgiant.com/2025/12/18/identity-management-for-businesses/",
+      "content": "Identity Management (IAM) is a critical foundation of modern business security, ensuring that the right people—and systems—have access to the right resources at the right time. As organizations adopt cloud services, remote work, and digital platforms, identity has become the new security perimeter. By implementing strong authentication, least-privilege access, and automated user lifecycle management, businesses can reduce breach risks, meet compliance requirements, and enable secure growth in a digital-first world.",
+      "author": "admin",
+      "publishedAt": "2025-12-18T03:32:21.000Z",
+      "isRead": false,
+      "createdAt": "2026-02-16T01:48:28.053Z"
+    },
+    {
+      "id": "deae89e0-9663-42f0-b853-dd175cd6ce10",
+      "guid": "https://boredgiant.com/?p=3690",
+      "title": "The Architecture of Sharing: From P2P Swarms to Lite Local Servers",
+      "link": "https://boredgiant.com/2025/12/17/the-architecture-of-sharing-from-p2p-swarms-to-lite-local-servers/",
+      "content": "Following our deep dive into the µTP protocol, we explore the broader architecture of file sharing. From the 'Star Topology' of the cloud to the efficiency of a Lite HTTP Server, we break down why moving data across the room shouldn't take a trip across the globe. Plus, a look at how midnight cron tasks keep the gears of enterprise data (and academic transcripts) turning while we sleep.",
+      "author": "admin",
+      "publishedAt": "2025-12-17T15:19:52.000Z",
+      "isRead": false,
+      "createdAt": "2026-02-16T01:48:28.053Z"
+    },
+    {
+      "id": "61f14f59-34a6-490b-b755-767dfc7f31c1",
+      "guid": "https://boredgiant.com/?p=3692",
+      "title": "The uTorrent Protocol Explained: How μTP Improves Peer-to-Peer Networking",
+      "link": "https://boredgiant.com/2025/12/16/the-utorrent-protocol-explained-how-%ce%bctp-improves-peer-to-peer-networking/",
+      "content": "The uTorrent Transport Protocol (μTP) is a UDP-based protocol designed to make peer-to-peer file sharing faster, fairer, and more network-friendly. By using delay-based congestion control instead of traditional loss-based methods, μTP intelligently utilizes spare bandwidth while yielding to latency-sensitive traffic such as web browsing and video calls. This article explores how μTP works, why it was introduced, and how it improves both user experience and overall network health in modern BitTorrent ecosystems.",
+      "author": "admin",
+      "publishedAt": "2025-12-16T03:55:02.000Z",
+      "isRead": false,
+      "createdAt": "2026-02-16T01:48:28.053Z"
+    },
+    {
+      "id": "26ecdcbc-a84d-4276-8e4a-42de0cc2f067",
+      "guid": "https://boredgiant.com/?p=3694",
+      "title": "Peer-to-Peer (P2P) Protocols: Architecture, Use Cases, and Their Role in the Modern Internet",
+      "link": "https://boredgiant.com/2025/12/15/peer-to-peer-p2p-protocols-architecture-use-cases-and-their-role-in-the-modern-internet/",
+      "content": "Peer-to-peer (P2P) protocols enable decentralized communication by allowing devices to share data and resources directly without relying on a central server. By distributing workloads across participating nodes, P2P systems achieve high scalability, fault tolerance, and cost efficiency. Technologies such as BitTorrent, IPFS, blockchain networks, and WebRTC demonstrate how P2P protocols power modern applications ranging from file distribution to real-time communication and decentralized storage. As businesses and developers seek resilient and scalable architectures, P2P protocols continue to play a critical role in shaping the future of the internet.",
+      "author": "admin",
+      "publishedAt": "2025-12-15T04:04:55.000Z",
+      "isRead": false,
+      "createdAt": "2026-02-16T01:48:28.053Z"
+    },
+    {
+      "id": "2e2b123f-2489-4125-9c32-f43960a7f78a",
+      "guid": "https://boredgiant.com/?p=3696",
+      "title": "Using Bandwidth More Effectively For Your Business",
+      "link": "https://boredgiant.com/2025/12/14/using-bandwidth-more-effectively-for-your-business/",
+      "content": "Efficient bandwidth usage is essential for modern businesses that rely on cloud services, remote collaboration, and digital customer experiences. By monitoring network traffic, prioritizing critical applications, optimizing cloud usage, and controlling unnecessary background activity, organizations can improve performance without increasing costs. Treating bandwidth as a strategic business asset enables better reliability, scalability, and productivity while supporting long-term growth.",
+      "author": "admin",
+      "publishedAt": "2025-12-14T05:19:59.000Z",
+      "isRead": false,
+      "createdAt": "2026-02-16T01:48:28.053Z"
+    },
+    {
+      "id": "f09b2465-b179-42ae-8991-a992f6726e00",
+      "guid": "https://boredgiant.com/?p=3698",
+      "title": "Cloud Provider SLA and It’s Significance to Your Business",
+      "link": "https://boredgiant.com/2025/12/13/cloud-provider-sla-and-its-significance-to-your-business/",
+      "content": "A Cloud Service Level Agreement (SLA) defines the reliability, availability, and support standards a business can expect from its cloud provider. It outlines uptime guarantees, performance benchmarks, support response times, and compensation for service failures. Understanding your provider’s SLA is critical to minimizing downtime risks, protecting revenue, and maintaining customer trust. By carefully evaluating SLA metrics and limitations, businesses can design resilient cloud architectures and make informed decisions that align technology reliability with business goals.",
+      "author": "admin",
+      "publishedAt": "2025-12-13T04:05:45.000Z",
+      "isRead": false,
+      "createdAt": "2026-02-16T01:48:28.053Z"
+    },
+    {
+      "id": "46c0f23d-025f-439d-b9b8-1149b88ca8ae",
+      "guid": "https://boredgiant.com/?p=3700",
+      "title": "Delivering Quality Services to Your Customers with the Cloud",
+      "link": "https://boredgiant.com/2025/12/12/delivering-quality-services-to-your-customers-with-the-cloud/",
+      "content": "Cloud infrastructure enables businesses to deliver high-quality services through reliability, scalability, and enhanced performance. By leveraging features like global CDNs, automated scaling, managed security, and AI-driven analytics, companies can provide fast, personalized, and consistent customer experiences across all devices. Modern cloud architecture—microservices, serverless computing, and real-time monitoring—helps teams deploy updates quickly, reduce downtime, and maintain trust. As cloud technology evolves, it remains the foundation of superior digital service delivery.",
+      "author": "admin",
+      "publishedAt": "2025-12-12T04:10:18.000Z",
+      "isRead": false,
+      "createdAt": "2026-02-16T01:48:28.053Z"
+    },
+    {
+      "id": "45b53883-349e-4f5d-b983-410ba08c2b8f",
+      "guid": "https://boredgiant.com/?p=3702",
+      "title": "Happier Customers and More Transactions on Cloud Infrastructure",
+      "link": "https://boredgiant.com/2025/12/11/happier-customers-and-more-transactions-on-cloud-infrastructure/",
+      "content": "Modern cloud infrastructure has become the engine behind faster, more reliable, and more secure digital experiences. As customer expectations rise, businesses must deliver instant performance, zero downtime, and seamless scaling—qualities that are difficult to achieve with traditional on-premise systems. By leveraging globally distributed data centers, automatic scaling, built-in security, and real-time analytics, companies can offer smoother interactions and personalized services that build trust. Happier customers engage more, convert more, and transact more frequently. Cloud platforms make it possible to handle high traffic loads, launch new features faster, and maintain consistent reliability without expensive hardware. Ultimately, the cloud enables both customer satisfaction and accelerated business growth.",
+      "author": "admin",
+      "publishedAt": "2025-12-11T04:39:28.000Z",
+      "isRead": false,
+      "createdAt": "2026-02-16T01:48:28.053Z"
+    },
+    {
+      "id": "65910891-f123-47e7-b02d-e46b8a9c1932",
+      "guid": "https://boredgiant.com/?p=3704",
+      "title": "Understanding Customers Online Behavior Through Website Interactions",
+      "link": "https://boredgiant.com/2025/12/10/understanding-customers-online-behavior-through-website-interactions/",
+      "content": "Understanding how customers interact with your website is key to improving user experience and increasing conversions. By analyzing website interactions such as clicks, scroll depth, navigation paths, and session behavior, businesses can uncover user intent, identify friction points, and make data-driven design decisions. This article explores practical techniques and tools for tracking online behavior and turning interaction data into actionable insights.",
+      "author": "admin",
+      "publishedAt": "2025-12-10T04:43:12.000Z",
+      "isRead": false,
+      "createdAt": "2026-02-16T01:48:28.053Z"
+    }
+  ]
+}
