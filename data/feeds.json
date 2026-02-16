@@ -111,6 +111,15 @@
       "description": "Apps and games for creatives.",
       "createdAt": "2026-02-16T01:48:28.051Z",
       "updatedAt": "2026-02-16T01:48:28.051Z"
+    },
+    {
+      "id": "7c1f09fb-f215-4011-accb-6eb4a3ed1e2d",
+      "title": "Blog – Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "siteUrl": "https://hackaday.com",
+      "description": "Fresh hacks every day",
+      "createdAt": "2026-02-16T01:49:41.642Z",
+      "updatedAt": "2026-02-16T01:49:41.642Z"
     }
   ]
 }
