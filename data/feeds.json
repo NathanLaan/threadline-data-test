@@ -75,6 +75,15 @@
       "description": "IEEE Spectrum",
       "createdAt": "2026-02-16T01:46:34.694Z",
       "updatedAt": "2026-02-16T01:46:34.694Z"
+    },
+    {
+      "id": "2e6de908-cbeb-4de5-b8e8-a60ee0050971",
+      "title": "The Next Web",
+      "url": "https://feeds.feedburner.com/thenextweb",
+      "siteUrl": "https://thenextweb.com",
+      "description": "Original and proudly opinionated perspectives for Generation T",
+      "createdAt": "2026-02-16T01:46:53.993Z",
+      "updatedAt": "2026-02-16T01:46:53.993Z"
     }
   ]
 }
