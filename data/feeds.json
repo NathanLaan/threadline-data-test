@@ -66,6 +66,15 @@
       "description": "Startup and Technology News",
       "createdAt": "2026-02-16T01:45:56.793Z",
       "updatedAt": "2026-02-16T01:45:56.793Z"
+    },
+    {
+      "id": "f26375bf-f6ab-4f9f-8fbc-34062b58052e",
+      "title": "IEEE Spectrum",
+      "url": "https://feeds.feedburner.com/IeeeSpectrumFullText",
+      "siteUrl": "https://spectrum.ieee.org/",
+      "description": "IEEE Spectrum",
+      "createdAt": "2026-02-16T01:46:34.694Z",
+      "updatedAt": "2026-02-16T01:46:34.694Z"
     }
   ]
 }
