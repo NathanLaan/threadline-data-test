@@ -198,6 +198,15 @@
       "description": "Security at the speed of business",
       "createdAt": "2026-02-16T01:52:30.526Z",
       "updatedAt": "2026-02-16T01:52:30.526Z"
+    },
+    {
+      "id": "7ce9ae69-ab74-4683-9d1f-c70905adf5ae",
+      "title": "New Scientist - Home",
+      "url": "https://www.newscientist.com/feed/home/?cmpid=RSS%7CNSNS-Home",
+      "siteUrl": "https://www.newscientist.com/",
+      "description": "New Scientist - Home",
+      "createdAt": "2026-02-16T01:53:07.694Z",
+      "updatedAt": "2026-02-16T01:53:07.694Z"
     }
   ]
 }
