@@ -153,6 +153,15 @@
       "description": "Seth Godin's Blog on marketing, tribes and respect",
       "createdAt": "2026-02-16T01:50:36.170Z",
       "updatedAt": "2026-02-16T01:50:36.170Z"
+    },
+    {
+      "id": "7e648895-6657-4ffa-a1bd-8911cce9c089",
+      "title": "Gary Vaynerchuk",
+      "url": "https://garyvaynerchuk.com/feed/",
+      "siteUrl": "https://garyvaynerchuk.com/",
+      "description": "SERIAL ENTREPRENEUR, CHAIRMAN OF VAYNERX, CEO OF VAYNERMEDIA, CEO OF VEEFRIENDS, & 5X NYT BESTSELLING AUTHOR",
+      "createdAt": "2026-02-16T01:50:51.782Z",
+      "updatedAt": "2026-02-16T01:50:51.782Z"
     }
   ]
 }
