@@ -120,6 +120,15 @@
       "description": "Fresh hacks every day",
       "createdAt": "2026-02-16T01:49:41.642Z",
       "updatedAt": "2026-02-16T01:49:41.642Z"
+    },
+    {
+      "id": "2773e89f-2a05-4b30-960a-9a00c576f39d",
+      "title": "Fast Company",
+      "url": "https://www.fastcompany.com/latest/rss?truncated=true",
+      "siteUrl": "https://www.fastcompany.com",
+      "description": "Fast Company inspires a new breed of innovative and creative thought leaders who are actively inventing the future of business.",
+      "createdAt": "2026-02-16T01:50:12.759Z",
+      "updatedAt": "2026-02-16T01:50:12.759Z"
     }
   ]
 }
