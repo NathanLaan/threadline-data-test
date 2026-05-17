@@ -1,3 +1,4 @@
 {
-  "syncWaitTime": "30"
+  "syncWaitTime": "30",
+  "theme": "light"
 }
