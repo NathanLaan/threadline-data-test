@@ -17,6 +17,12 @@
       "name": "Apple",
       "createdAt": "2026-02-15T20:36:32.708Z",
       "updatedAt": "2026-02-15T20:36:32.708Z"
+    },
+    {
+      "id": "63f68b45-514a-4be3-94c3-c30f782f5165",
+      "name": "Productivity",
+      "createdAt": "2026-05-20T18:03:08.170Z",
+      "updatedAt": "2026-05-20T18:03:08.170Z"
     }
   ]
 }
