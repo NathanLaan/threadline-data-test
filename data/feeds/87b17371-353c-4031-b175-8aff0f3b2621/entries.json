@@ -220,6 +220,226 @@
       "publishedAt": "2026-02-14T03:30:00.000Z",
       "isRead": false,
       "createdAt": "2026-02-16T01:45:56.793Z"
+    },
+    {
+      "id": "60bfae91-fa83-4781-b5fc-795f58ac3855",
+      "guid": "https://techcrunch.com/?p=3122283",
+      "title": "IrisGo, a startup backed by Andrew Ng, looks to become the AI desktop buddy you never knew you needed",
+      "link": "https://techcrunch.com/2026/05/20/irisgo-a-startup-backed-by-andrew-ng-looks-to-become-the-ai-desktop-buddy-you-never-knew-you-needed/",
+      "content": "Initially billed as an \"AI butler,\" Iris watches what happens on a user's desktop and automatically learns how to do tasks for them, its co-founder says. ",
+      "author": "Lucas Ropek",
+      "publishedAt": "2026-05-20T19:47:20.000Z",
+      "isRead": false,
+      "createdAt": "2026-05-20T20:25:45.823Z"
+    },
+    {
+      "id": "74809dee-327a-4c91-b488-2e377ed2cabe",
+      "guid": "https://techcrunch.com/?p=3124513",
+      "title": "Tesla’s Full Self-Driving software is creeping into Europe",
+      "link": "https://techcrunch.com/2026/05/20/teslas-full-self-driving-software-is-creeping-into-europe/",
+      "content": "First came the Netherlands, now it's Lithuania. And more European countries appear to be in the queue for Tesla's driver-assistance system.",
+      "author": "Kirsten Korosec",
+      "publishedAt": "2026-05-20T18:32:06.000Z",
+      "isRead": false,
+      "createdAt": "2026-05-20T20:25:45.823Z"
+    },
+    {
+      "id": "6e37a733-a69e-490b-b8ee-fcbaf16797df",
+      "guid": "https://techcrunch.com/?p=3124401",
+      "title": "Airbnb gets into hotels, expands AI for host onboarding and customer support",
+      "link": "https://techcrunch.com/2026/05/20/airbnb-gets-into-hotels-expands-ai-for-host-onboarding-and-customer-support/",
+      "content": "Airbnb will soon let you book luggage storage and car rental services on its app.",
+      "author": "Ivan Mehta",
+      "publishedAt": "2026-05-20T18:14:04.000Z",
+      "isRead": false,
+      "createdAt": "2026-05-20T20:25:45.823Z"
+    },
+    {
+      "id": "ff25cfbb-270d-4b02-9bad-c650d3c6eb3d",
+      "guid": "https://techcrunch.com/?p=3124510",
+      "title": "Global EV market goes K-shaped as the US gets left behind",
+      "link": "https://techcrunch.com/2026/05/20/global-ev-market-goes-k-shaped-as-the-u-s-gets-left-behind/",
+      "content": "EV sales have surged worldwide in every region but the U.S., posing risks for legacy and startup automakers.",
+      "author": "Tim De Chant",
+      "publishedAt": "2026-05-20T17:34:00.000Z",
+      "isRead": false,
+      "createdAt": "2026-05-20T20:25:45.823Z"
+    },
+    {
+      "id": "9a229600-c8f3-4946-bc23-f506c637d997",
+      "guid": "https://techcrunch.com/?p=3124518",
+      "title": "OpenAI barrels toward IPO that may happen in September",
+      "link": "https://techcrunch.com/2026/05/20/openai-barrels-toward-ipo-that-may-happen-in-september/",
+      "content": "A day after Elon Musk lost his lawsuit that threatened OpenAI's structure, leadership, and finances, OpenAI is reportedly back to prepping for its IPO.",
+      "author": "Julie Bort",
+      "publishedAt": "2026-05-20T17:24:24.000Z",
+      "isRead": false,
+      "createdAt": "2026-05-20T20:25:45.823Z"
+    },
+    {
+      "id": "67397413-a29c-472d-af1d-d50e8e030c2f",
+      "guid": "https://techcrunch.com/?p=3124420",
+      "title": "Jeff Bezos, you were so close to making a good point",
+      "link": "https://techcrunch.com/2026/05/20/jeff-bezos-you-were-so-close-to-making-a-good-point/",
+      "content": "\"Why is a nurse in Queens who makes $75,000 a year paying more than $1,000 a month in taxes?\" Bezos said Wednesday morning on CNBC. \"That's $1,000 that could help with rent, or groceries, or anything.\"",
+      "author": "Amanda Silberling",
+      "publishedAt": "2026-05-20T17:10:31.000Z",
+      "isRead": false,
+      "createdAt": "2026-05-20T20:25:45.823Z"
+    },
+    {
+      "id": "69b43de8-f826-4865-83bc-5ee0a304fd05",
+      "guid": "https://techcrunch.com/?p=3124479",
+      "title": "Customers say Trump Mobile is leaking their personal information",
+      "link": "https://techcrunch.com/2026/05/20/customers-say-trump-mobile-is-leaking-their-personal-information/",
+      "content": "Trump Mobile is leaking customers’ email and home addresses but has not responded to people alerting the company of the data exposure, according to two YouTubers who said they verified that their leaked data is authentic.",
+      "author": "Lorenzo Franceschi-Bicchierai",
+      "publishedAt": "2026-05-20T15:28:55.000Z",
+      "isRead": false,
+      "createdAt": "2026-05-20T20:25:45.823Z"
+    },
+    {
+      "id": "43386494-0c88-4410-b1e1-242fa8ccef4c",
+      "guid": "https://techcrunch.com/?p=3124447",
+      "title": "Intuit to lay off over 3,000 employees to refocus on AI",
+      "link": "https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/",
+      "content": "In a memo to employees, CEO Sasan Goodarzi said the layoffs are meant to reduce complexity, simplify the company's corporate structure, and deliver better AI products. ",
+      "author": "Ram Iyer",
+      "publishedAt": "2026-05-20T15:14:31.000Z",
+      "isRead": false,
+      "createdAt": "2026-05-20T20:25:45.823Z"
+    },
+    {
+      "id": "5952639e-306d-4ada-814f-22618d27d496",
+      "guid": "https://techcrunch.com/?p=3124449",
+      "title": "AI search startups are blowing up",
+      "link": "https://techcrunch.com/2026/05/20/ai-search-startups-are-blowing-up/",
+      "content": "AI search has quietly become one of the most attractive targets in consumer AI.",
+      "author": "Russell Brandom",
+      "publishedAt": "2026-05-20T15:04:45.000Z",
+      "isRead": false,
+      "createdAt": "2026-05-20T20:25:45.823Z"
+    },
+    {
+      "id": "04eabb98-de3e-47a3-a66d-2a3278857bbd",
+      "guid": "https://techcrunch.com/?p=3124395",
+      "title": "Stability AI releases a new audio model that can create 6-minute songs",
+      "link": "https://techcrunch.com/2026/05/20/stability-ai-release-a-new-audio-model-that-can-create-six-minute-songs/",
+      "content": "Stability Audio 3.0 small model can run on-device and generate two-minute long tracks. ",
+      "author": "Ivan Mehta",
+      "publishedAt": "2026-05-20T15:00:00.000Z",
+      "isRead": false,
+      "createdAt": "2026-05-20T20:25:45.823Z"
+    },
+    {
+      "id": "5d29d599-28a9-4e28-ba38-35f7abe51394",
+      "guid": "https://techcrunch.com/?p=3123711",
+      "title": "NanoClaw creator turns down $20M buyout offer, raises $12M seed instead",
+      "link": "https://techcrunch.com/2026/05/20/nanoclaw-creator-turns-down-20m-buyout-offer-raises-12m-seed-instead/",
+      "content": "NanoClaw was created as a secure alternative to OpenClaw to assist the Cohen brothers with their AI marketing firm that used agents to do much of the work. But instead of running directly on a computer, NanoClaw runs sandboxed in a container.",
+      "author": "Julie Bort",
+      "publishedAt": "2026-05-20T14:00:00.000Z",
+      "isRead": false,
+      "createdAt": "2026-05-20T20:25:45.823Z"
+    },
+    {
+      "id": "6c30c353-8524-4f36-baae-7620f468a81e",
+      "guid": "https://techcrunch.com/?p=3123921",
+      "title": "Startup Battlefield 200 applications close in 1 week: Window to nominate and apply for the most promising startups closes May 27",
+      "link": "https://techcrunch.com/2026/05/20/startup-battlefield-200-applications-close-in-1-week-window-to-nominate-and-apply-for-the-most-promising-startups-closes-may-27/",
+      "content": "Startup Battlefield 200 applications close May 27. Pitch at TechCrunch Disrupt, get investor access, win $100K, plus more scaling perks. Nominate an early-stage founder or submit your startup today.",
+      "author": "TechCrunch Events",
+      "publishedAt": "2026-05-20T14:00:00.000Z",
+      "isRead": false,
+      "createdAt": "2026-05-20T20:25:45.823Z"
+    },
+    {
+      "id": "c296c647-b635-4e7a-9fbd-2c35d6b2a84f",
+      "guid": "https://techcrunch.com/?p=3124429",
+      "title": "GitHub says hackers stole data from thousands of internal repositories",
+      "link": "https://techcrunch.com/2026/05/20/github-says-hackers-stole-data-from-thousands-of-internal-repositories/",
+      "content": "The code hosting giant GitHub said it was investigating a breach but said there was no evidence of customer data theft.",
+      "author": "Zack Whittaker",
+      "publishedAt": "2026-05-20T13:25:58.000Z",
+      "isRead": false,
+      "createdAt": "2026-05-20T20:25:45.823Z"
+    },
+    {
+      "id": "570fe2c3-fec9-4c6f-8088-a3dece0b37e8",
+      "guid": "https://techcrunch.com/?p=3124082",
+      "title": "Figma adds an AI assistant to its collaborative canvas",
+      "link": "https://techcrunch.com/2026/05/20/figma-adds-an-ai-assistant-to-its-collaborative-canvas/",
+      "content": "Figma says users can employ natural language text prompts to direct its new AI agent to generate new designs, edit existing ones, or automate tasks such as generating iterations of existing designs. ",
+      "author": "Ivan Mehta",
+      "publishedAt": "2026-05-20T13:00:00.000Z",
+      "isRead": false,
+      "createdAt": "2026-05-20T20:25:45.823Z"
+    },
+    {
+      "id": "8cc52b99-848f-4a54-bd92-f8c20ead43d3",
+      "guid": "https://techcrunch.com/?p=3124201",
+      "title": "This startup raised $43M to build a hive mind for ships",
+      "link": "https://techcrunch.com/2026/05/20/this-startup-raised-43m-to-build-a-hive-mind-for-ships/",
+      "content": "The Arlington, Virginia-based startup has raised $42 million to equip ships with sensors that blow the current AIS tech out of the water.",
+      "author": "Sean O'Kane",
+      "publishedAt": "2026-05-20T13:00:00.000Z",
+      "isRead": false,
+      "createdAt": "2026-05-20T20:25:45.823Z"
+    },
+    {
+      "id": "d286d3f8-e84c-44e8-a82e-de4328c91b18",
+      "guid": "https://techcrunch.com/?p=3124032",
+      "title": "‘Ask YouTube’ brings AI-powered conversational search to video, adds Gemini Omni to Shorts",
+      "link": "https://techcrunch.com/2026/05/19/ask-youtube-brings-ai-powered-conversational-search-to-video-adds-gemini-omni-to-shorts/",
+      "content": "Google is completely revamping its search experience, and that doesn't stop at YouTube.",
+      "author": "Amanda Silberling",
+      "publishedAt": "2026-05-20T05:45:00.000Z",
+      "isRead": false,
+      "createdAt": "2026-05-20T20:25:45.823Z"
+    },
+    {
+      "id": "53fa3c7f-d05e-43b5-8001-12526b3b0a4c",
+      "guid": "https://techcrunch.com/?p=3123458",
+      "title": "Google just declared itself a contender in AI design at IO 2026",
+      "link": "https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in-at-io-2026/",
+      "content": "Google says it's designed the app to be accessible to everyone, from teachers to small business owners. ",
+      "author": "Aisha Malik",
+      "publishedAt": "2026-05-19T21:33:30.000Z",
+      "isRead": false,
+      "createdAt": "2026-05-20T20:25:45.823Z"
+    },
+    {
+      "id": "6f09c01e-0111-452e-a9fe-37fe7a9e0ebc",
+      "guid": "https://techcrunch.com/?p=3123167",
+      "title": "You can now talk to your Gmail inbox, as seen at Google IO 2026",
+      "link": "https://techcrunch.com/2026/05/19/you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026/",
+      "content": "Google expands Gmail’s AI Inbox with conversational voice search, letting users ask Gemini to find buried email details.",
+      "author": "Sarah Perez",
+      "publishedAt": "2026-05-19T21:25:31.000Z",
+      "isRead": false,
+      "createdAt": "2026-05-20T20:25:45.823Z"
+    },
+    {
+      "id": "2e4391a9-fb9a-4f3e-bb2f-e5e4a689c443",
+      "guid": "https://techcrunch.com/?p=3123772",
+      "title": "How to use Google’s new AI agents to go beyond your standard searches",
+      "link": "https://techcrunch.com/2026/05/19/how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches/",
+      "content": "Google is launching AI-powered “information agents” that can monitor topics in the background and proactively alert users to updates and changes.",
+      "author": "Lauren Forristal",
+      "publishedAt": "2026-05-19T21:16:25.000Z",
+      "isRead": false,
+      "createdAt": "2026-05-20T20:25:45.823Z"
+    },
+    {
+      "id": "042da6c9-79ea-458a-b2e2-a93b2e344dac",
+      "guid": "https://techcrunch.com/?p=3124293",
+      "title": "Discord enables end-to-end encrypted voice and video calling for every user",
+      "link": "https://techcrunch.com/2026/05/19/discord-enables-end-to-end-encrypted-voice-and-video-calling-for-every-user/",
+      "content": "Good news! Discord's hundreds of millions of users now have their communications scrambled, so not even Discord can see them.",
+      "author": "Zack Whittaker",
+      "publishedAt": "2026-05-19T21:14:08.000Z",
+      "isRead": false,
+      "createdAt": "2026-05-20T20:25:45.823Z"
     }
   ]
 }

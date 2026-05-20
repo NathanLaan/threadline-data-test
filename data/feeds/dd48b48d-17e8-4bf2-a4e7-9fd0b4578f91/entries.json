@@ -220,6 +220,226 @@
       "publishedAt": "2026-01-13T09:45:11.000Z",
       "isRead": false,
       "createdAt": "2026-02-16T01:52:21.776Z"
+    },
+    {
+      "id": "1a806807-5712-4f21-beea-4ae7d7fc07c3",
+      "guid": "https://grahamcluley.com/?p=17351413",
+      "title": "FBI warns students and staff that ShinyHunters may come knocking after Canvas breach",
+      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/fbi-shinyhunters-canvas-breach",
+      "content": "Having receive a ransom payment for its attack on Canvas, ShinyHunters and other extortion gangs are only likely to be further incentivised to launch similar attacks in future.\r\n\r\nRead more in my article on the Hot for Security blog.",
+      "author": "Graham Cluley",
+      "publishedAt": "2026-05-20T08:28:36.000Z",
+      "isRead": false,
+      "createdAt": "2026-05-20T20:25:40.496Z"
+    },
+    {
+      "id": "4305d905-341d-4de8-8436-cf45d7efc2f1",
+      "guid": "https://grahamcluley.com/?p=17351408",
+      "title": "Suspected Dream Market kingpin arrested after gold bars sent to his home address",
+      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/dream-market-kingpin-arrested-gold-bars",
+      "content": "Lesson one for aspiring dark web kingpins: don't have your laundered gold bars shipped to your home address.\r\n\r\nRead more in my article on the Hot for Security blog.\r\n",
+      "author": "Graham Cluley",
+      "publishedAt": "2026-05-14T19:46:35.000Z",
+      "isRead": false,
+      "createdAt": "2026-05-20T20:25:40.496Z"
+    },
+    {
+      "id": "4b1bcfea-4c96-45d0-b92d-272ae0961e7d",
+      "guid": "https://grahamcluley.com/?p=17351401",
+      "title": "When ransomware gets physical: cybercriminals turn to threats of violence",
+      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/ransomware-physical-threats-violence",
+      "content": "Pay up, or we'll pay someone to pay you a visit. Cybercrime gangs are increasingly turning to real-world threats - and even hiring local muscle to deliver the message.\r\n\r\nRead more in my article on the Hot for Security blog.",
+      "author": "Graham Cluley",
+      "publishedAt": "2026-05-14T09:28:05.000Z",
+      "isRead": false,
+      "createdAt": "2026-05-20T20:25:40.496Z"
+    },
+    {
+      "id": "1eeb6f9d-0f37-461b-b7c8-338e00495504",
+      "guid": "https://grahamcluley.com/?p=17351392",
+      "title": "Smashing Security podcast #467: How ShinyHunters hacked the world’s biggest universities",
+      "link": "https://grahamcluley.com/smashing-security-podcast-467/",
+      "content": "Welcome to the largest educational data breach in history - affecting nearly 9,000 institutions, every Ivy League university, and 30 million students mid-finals. When Canvas's parent company refused to pay and announced they had deployed \"security patches\" instead, the hackers were less than impressed. So they came back through the cat flap.\r\n\r\nMeanwhile, a famous finance expert's face has been showing up on Facebook adverts promising hot stock tips and exclusive WhatsApp investment groups. Spoiler: it isn't him, the tips aren't real, and you're about to be scammed.\r\n\r\nPlus we chat to Mike Nichols of Elastic, about how the SOC isn't dying, attackers and defenders are both deploying AI agents, and how the real security crisis is no longer human users - it's the bots acting on their behalf.\r\n\r\nAll this and more in episode 467 of the \"Smashing Security\" podcast with cybersecurity expert and keynote speaker Graham Cluley, and special guest Danny Palmer.",
+      "author": "Graham Cluley",
+      "publishedAt": "2026-05-13T23:05:09.000Z",
+      "isRead": false,
+      "createdAt": "2026-05-20T20:25:40.496Z"
+    },
+    {
+      "id": "a6863772-7ae9-4ecf-85a7-71cfe97252b6",
+      "guid": "https://grahamcluley.com/?p=17351384",
+      "title": "One in eight UK workers has sold their company passwords, and bosses think it’s fine",
+      "link": "https://www.fortra.com/blog/one-eight-uk-workers-has-sold-their-company-passwords-and-bosses-think-its-fine",
+      "content": "One in eight UK workers admits to selling their company login credentials - or knowing someone who has - in the past 12 months.\r\n\r\nThe really alarming bit? Their bosses are even more relaxed about it. \r\n\r\nRead more in my article on the Fortra blog.",
+      "author": "Graham Cluley",
+      "publishedAt": "2026-05-08T15:20:45.000Z",
+      "isRead": false,
+      "createdAt": "2026-05-20T20:25:40.496Z"
+    },
+    {
+      "id": "ac77afab-8bc5-4b35-bcd0-796447e51569",
+      "guid": "https://grahamcluley.com/?p=17351379",
+      "title": "Inside Department 4: Russia’s secret school for hackers",
+      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/inside-department-4-russias-secret-school-for-hackers",
+      "content": "Most universities have a careers fair. At Bauman Moscow State Technical University, however, an elite group of students appear to have something rather more unusual: a direct pipeline into some of the world's most notorious state-sponsored hacking groups.\r\n\r\nRead more in my article on the Hot for Security blog.",
+      "author": "Graham Cluley",
+      "publishedAt": "2026-05-08T14:36:50.000Z",
+      "isRead": false,
+      "createdAt": "2026-05-20T20:25:40.496Z"
+    },
+    {
+      "id": "faa8b01f-bf8c-4a51-af6b-46cd528882af",
+      "guid": "https://grahamcluley.com/?p=17351373",
+      "title": "Sri Lanka makes 37 arrests as it raids another scam centre",
+      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/sri-lanka-37-arrests-scam-centre",
+      "content": "You don't need to live near a scam compound for it to wreck your life. Americans lost $5.8 billion to crypto investment scams last year alone - and a raid in Sri Lanka this month shows exactly how the operations behind them keep finding new places to hide.\r\n\r\nRead more in my article on the Hot for Security blog.",
+      "author": "Graham Cluley",
+      "publishedAt": "2026-05-08T09:30:20.000Z",
+      "isRead": false,
+      "createdAt": "2026-05-20T20:25:40.496Z"
+    },
+    {
+      "id": "4e3708e0-bfc3-436c-86f6-42727904bc97",
+      "guid": "https://grahamcluley.com/?p=17351348",
+      "title": "Smashing Security podcast #466: Meta sees everything, Copy Fail, and a deepfake gets hired",
+      "link": "https://grahamcluley.com/smashing-security-podcast-466/",
+      "content": "Meta's smart glasses promise privacy \"designed for you\" - but everything they record was being beamed off to workers in Nairobi to label by hand. When those workers blew the whistle, Meta sacked all 1,108 of them.\r\n\r\nMeanwhile, the IT press is in a frenzy over a new Linux bug called \"Copy Fail\" - complete with logo, dedicated website, and a marketing-friendly name. But is it really the disaster everyone's making it out to be?\r\n\r\nAnd in our featured interview, Jake Moore of ESET explains how he tricked a company into offering his deepfake clone a job - after a perfectly normal-looking video interview.\r\n\r\nAll this and more in episode 466 of the \"Smashing Security\" podcast with cybersecurity expert and keynote speaker Graham Cluley, joined this week by special guest Paul Ducklin.",
+      "author": "Graham Cluley",
+      "publishedAt": "2026-05-06T23:30:49.000Z",
+      "isRead": false,
+      "createdAt": "2026-05-20T20:25:40.496Z"
+    },
+    {
+      "id": "55594760-df8c-45f7-b90d-4495f5496f47",
+      "guid": "https://grahamcluley.com/?p=17351333",
+      "title": "Teenager alleged to be Scattered Spider hacker arrested in Finland, faces US extradition",
+      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/alleged-scattered-spider-hacker-extradition",
+      "content": "Here's a tip for you all. Unless you want to draw attention to yourself as a cybercriminal, don't flaunt your diamond-encrusted \"HACK THE PLANET\" necklace on Snapchat, or pose as a Sopranos crime boss while the FBI is reportedly closing in.\r\n\r\nRead more in my article on the Hot for Security blog.",
+      "author": "Graham Cluley",
+      "publishedAt": "2026-05-04T11:42:44.000Z",
+      "isRead": false,
+      "createdAt": "2026-05-20T20:25:40.496Z"
+    },
+    {
+      "id": "557e3829-58d7-4c9b-b153-4ce357a6ca5b",
+      "guid": "https://grahamcluley.com/?p=17351308",
+      "title": "Iran-linked Handala hackers leak US Marines data, send chilling WhatsApp threats",
+      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/iran-handala-hackers-leak-us-marines-data-chilling-whatsapp-threats",
+      "content": "US Marines stationed around the Persian Gulf have been receiving WhatsApp messages from strangers suggesting they call home and make their final goodbyes.\r\n\r\nRead more in my article on the Hot for Security blog.",
+      "author": "Graham Cluley",
+      "publishedAt": "2026-04-30T08:13:48.000Z",
+      "isRead": false,
+      "createdAt": "2026-05-20T20:25:40.496Z"
+    },
+    {
+      "id": "a191b95d-abe7-4d9b-b913-03da2c85aca8",
+      "guid": "https://grahamcluley.com/?p=17351296",
+      "title": "Smashing Security podcast #465: This developer wanted to cheat at Roblox. It cost millions",
+      "link": "https://grahamcluley.com/smashing-security-podcast-465/",
+      "content": "A developer at an AI startup wanted to cheat at Roblox. They downloaded a dodgy script on their work laptop. That one decision triggered a cascade of failures that ended with a $2 million data breach affecting hundreds of thousands of organisations. All for some free in-game currency.\r\n\r\nMeanwhile, there's a 1980s phone protocol called SS7 that lets shadowy surveillance companies track anyone, anywhere, via their mobile phone. Governments know about it. Telecoms know about it. Nobody's fixing it.\r\n\r\nAll this and more in episode 465 of the \"Smashing Security\" podcast with cybersecurity keynote speaker and industry veteran  Graham Cluley, joined this week by special guest James Ball.\r\n\r\nPlus! Don't miss our featured interview with Rob Edmondson of CoreView, discussing how to lock down Microsoft 365 before it's too late.",
+      "author": "Graham Cluley",
+      "publishedAt": "2026-04-29T23:15:23.000Z",
+      "isRead": false,
+      "createdAt": "2026-05-20T20:25:40.496Z"
+    },
+    {
+      "id": "3038dc37-dcdc-4d73-b970-67dc4c811067",
+      "guid": "https://grahamcluley.com/?p=17351285",
+      "title": "Alleged Silk Typhoon hacker extradited to the United States to face charges",
+      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/silk-typhoon-hacker-extradited-united-states",
+      "content": "A man accused of working as a hacker for China's Ministry of State Security has been extradited to the USA from Italy, and faces - if found guilty - the prospect of decades behind bars.\r\n\r\nRead more in my article on the Hot for Security blog.",
+      "author": "Graham Cluley",
+      "publishedAt": "2026-04-29T12:14:48.000Z",
+      "isRead": false,
+      "createdAt": "2026-05-20T20:25:40.496Z"
+    },
+    {
+      "id": "1444afd7-a30a-4da6-9669-788b5d181ea0",
+      "guid": "https://grahamcluley.com/?p=17351280",
+      "title": "French police arrest 21-year-old “HexDex” hacker over 100 alleged data breaches",
+      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/french-police-arrest-hexdex-hacker",
+      "content": "A 21-year-old man suspected of conducting approximately 100 data breaches since late 2025 - including a hack of the French Ministry of National Education that exposed records on almost a quarter of a million employees - has been arrested at his home in western France.\r\n\r\nRead more in my article on the Hot for Security blog.",
+      "author": "Graham Cluley",
+      "publishedAt": "2026-04-28T08:43:16.000Z",
+      "isRead": false,
+      "createdAt": "2026-05-20T20:25:40.496Z"
+    },
+    {
+      "id": "ef6309fc-813f-4e98-858e-a357960e6b55",
+      "guid": "https://grahamcluley.com/?p=17351261",
+      "title": "Smashing Security podcast #464: Rockstar got hacked. The data was junk. The secrets it revealed were not",
+      "link": "https://grahamcluley.com/smashing-security-podcast-464-rockstar-got-hacked-the-data-was-junk-the-secrets-it-revealed-were-not/",
+      "content": "A company that ran anonymous tip lines for 35,000 American schools - handling reports of bullying, weapons, and self-harm - boasted on its website that it had suffered zero security breaches in over 20 years. A hacker called Internet Yiff Machine thought that sounded like a challenge, with predictable results...\r\n\r\nMeanwhile, Rockstar Games gets hacked again - and the stolen data turns out to be less embarrassing than the financial secrets it accidentally revealed. GTA Online is still making half a billion dollars a year. Red Dead Redemption is not.\r\n\r\nAll this and more in episode 464 of the \"Smashing Security\" podcast with cybersecurity keynote speaker and industry veteran Graham Cluley, joined this week by special guest BBC cybersecurity correspondent Joe Tidy.\r\n\r\nPlus! Don't miss our featured interview with Ryan Benson of Meter.",
+      "author": "Graham Cluley",
+      "publishedAt": "2026-04-22T22:20:26.000Z",
+      "isRead": false,
+      "createdAt": "2026-05-20T20:25:40.496Z"
+    },
+    {
+      "id": "b52c2bb2-953b-48be-9509-91fe64cc4c9c",
+      "guid": "https://grahamcluley.com/?p=17351243",
+      "title": "Singer loses life savings to fake wallet downloaded from the Apple App Store",
+      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/singer-loses-life-savings-fake-wallet",
+      "content": "If you hold cryptocurrency, there's a very simple golden rule that you should always follow. Never hand over your seed phrase.\r\n\r\nGarrett Dutton, better known as G. Love - the front man of blues-hip-hop outfit G. Love &#038; Special Sauce - has learnt that lesson the hard way.\r\n\r\nRead more in my article on the Hot for Security blog.",
+      "author": "Graham Cluley",
+      "publishedAt": "2026-04-17T11:36:58.000Z",
+      "isRead": false,
+      "createdAt": "2026-05-20T20:25:40.496Z"
+    },
+    {
+      "id": "a5179433-b310-4dcf-babf-e6ad4a142124",
+      "guid": "https://grahamcluley.com/?p=17351248",
+      "title": "Sometimes changing the password on your email mailbox isn’t enough",
+      "link": "https://www.fortra.com/blog/sometimes-changing-password-your-email-mailbox-isnt-enough",
+      "content": "Have you ever taken a look at your Microsoft 365 mailbox rules? If not, it might be worth a few minutes of your time. Because newly released research reveals that hackers may already have beaten you to it.\r\n\r\nRead more in my article on the Fortra blog.",
+      "author": "Graham Cluley",
+      "publishedAt": "2026-04-16T15:37:52.000Z",
+      "isRead": false,
+      "createdAt": "2026-05-20T20:25:40.496Z"
+    },
+    {
+      "id": "0384d86c-1644-44ce-9940-a8cba98150b1",
+      "guid": "https://grahamcluley.com/?p=17351230",
+      "title": "Smashing Security podcast #463: This AI company leaked its own code. It’s also built something terrifying",
+      "link": "https://grahamcluley.com/smashing-security-podcast-463/",
+      "content": "A hacking group claims to have broken into the flood defence system protecting Venice's Piazza San Marco - and is offering to sell access to whoever wants it. The asking price? A frankly insulting $600.\r\n\r\nMeanwhile, Anthropic accidentally leaked the source code for Claude Code via a basic packaging mistake. Oh, and by the way, they've also just revealed they've built an AI model called Mythos that can find and chain together software vulnerabilities faster than any human. Sleep well.\r\n\r\nAll this and more in episode 463 of the “Smashing Security” podcast with cybersecurity expert and keynote speaker Graham Cluley, joined this week by special guest Tanya Janca.",
+      "author": "Graham Cluley",
+      "publishedAt": "2026-04-15T23:24:44.000Z",
+      "isRead": false,
+      "createdAt": "2026-05-20T20:25:40.496Z"
+    },
+    {
+      "id": "476c0348-ea65-4f49-b072-01bc57da343f",
+      "guid": "https://grahamcluley.com/?p=17351225",
+      "title": "108 malicious Chrome extensions caught stealing Google and Telegram data from 20,000 users",
+      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/malicious-chrome-extensions-steal-google-telegram-data",
+      "content": "Cybersecurity researchers have revealed that 108 malicious Google Chrome extensions have been quietly stealing user credentials, hijacking Telegram sessions, and injecting unwanted ads and scripts into browsers - all reporting back to the same central point.\r\n\r\nRead more in my article on the Hot for Security blog.",
+      "author": "Graham Cluley",
+      "publishedAt": "2026-04-15T11:05:56.000Z",
+      "isRead": false,
+      "createdAt": "2026-05-20T20:25:40.496Z"
+    },
+    {
+      "id": "9c3489c3-5272-4c04-a75d-5ceb19322183",
+      "guid": "https://grahamcluley.com/?p=17351215",
+      "title": "AI and cryptocurrency scams are costing Americans billions, FBI reports",
+      "link": "https://www.fortra.com/blog/ai-and-cryptocurrency-scams-are-costing-americans-billions-fbi-reports",
+      "content": "The fraud landscape has been changed by AI and cryptocurrency in a way that should concern organisations and individuals alike.\r\n\r\nRead more in my article on the Fortra blog.\r\n",
+      "author": "Graham Cluley",
+      "publishedAt": "2026-04-10T15:36:41.000Z",
+      "isRead": false,
+      "createdAt": "2026-05-20T20:25:40.496Z"
+    },
+    {
+      "id": "ca89d5e8-f68d-4070-9b9d-3670f5505a73",
+      "guid": "https://grahamcluley.com/?p=17351191",
+      "title": "Smashing Security podcast #462: LinkedIn is spying on you, and you agreed to nothing",
+      "link": "https://grahamcluley.com/smashing-security-podcast-462/",
+      "content": "LinkedIn has been secretly scanning your browser for over 6,000 installed extensions — on every single click you make. It can tell if you're job hunting, what religion you are, and whether you have ADHD. And none of this is mentioned anywhere in their privacy policy.\r\n\r\nMeanwhile, California's crypto millionaires are learning that no amount of encryption can protect you from someone who knocks on your door pretending to deliver a pizza.\r\n\r\nAll this and more in episode 462 of the “Smashing Security” podcast with cybersecurity expert and keynote speaker Graham Cluley, joined this week by special guest Dave Bittner.",
+      "author": "Graham Cluley",
+      "publishedAt": "2026-04-08T23:27:17.000Z",
+      "isRead": false,
+      "createdAt": "2026-05-20T20:25:40.496Z"
     }
   ]
 }

@@ -110,6 +110,116 @@
       "publishedAt": "2026-02-10T20:08:49.000Z",
       "isRead": false,
       "createdAt": "2026-02-16T01:46:53.996Z"
+    },
+    {
+      "id": "4403be0a-f541-44b5-925b-6971a1957edf",
+      "guid": "TheNextWeb=22b1d966dc2851c450177551027f60c6",
+      "title": "Europe’s EV sales are surging as the Iran war sends petrol prices through the roof",
+      "link": "https://thenextweb.com/news/europe-ev-sales-surge-iran-war-oil-prices",
+      "content": "<img src=\"https://media.thenextweb.com/2026/05/europe-ev-sales-surge-iran-war-oil-prices.avif\" width=\"868\" height=\"488\"><br /><p>War has a way of rewriting consumer habits overnight. Since US and Israeli airstrikes hit Iran at the end of February, crude oil has soared past $100 a barrel for the first time since Russia’s 2022 invasion of Ukraine. The result at Europe’s petrol pumps has been immediate and painful. The result at EV dealerships [&hellip;]</p>\n<br /><br /><a href=\"https://thenextweb.com/news/europe-ev-sales-surge-iran-war-oil-prices?utm_source=social&utm_medium=feed&utm_campaign=profeed\">This story continues</a> at The Next Web",
+      "author": "Darius Popa",
+      "publishedAt": "2026-05-20T19:56:07.000Z",
+      "isRead": false,
+      "createdAt": "2026-05-20T20:25:46.364Z"
+    },
+    {
+      "id": "f43c65a0-d0c9-4ebf-9aaa-4b9fb597aa65",
+      "guid": "TheNextWeb=8b97c05e0f151f88c651776d50a9f55a",
+      "title": "Primer secures $100M Series C to fuel US expansion and autonomous AI payments",
+      "link": "https://thenextweb.com/news/primer-secures-100m-series-c-autonomous-ai-payments",
+      "content": "<img src=\"https://media.thenextweb.com/2026/05/Primer.avif\" width=\"868\" height=\"488\"><br /><p>Primer, a London-based payment startup, has announced a €86.2 million Series C funding round to expand its AI payments and finance platform. The capital will also support its market development in the US, where the company plans to grow revenue to more than a third of total revenue by 2028, supported by plans to hire [&hellip;]</p>\n<br /><br /><a href=\"https://thenextweb.com/news/primer-secures-100m-series-c-autonomous-ai-payments?utm_source=social&utm_medium=feed&utm_campaign=profeed\">This story continues</a> at The Next Web",
+      "author": "Allison Steffens Herrera",
+      "publishedAt": "2026-05-20T15:38:18.000Z",
+      "isRead": false,
+      "createdAt": "2026-05-20T20:25:46.364Z"
+    },
+    {
+      "id": "4b97e058-3a9c-498e-baf4-5864889b95a5",
+      "guid": "TheNextWeb=65163f6c29043676715fce6d2c0ec72e",
+      "title": "Figma builds its own AI assistant that can design alongside you on the canvas",
+      "link": "https://thenextweb.com/news/figma-builds-its-own-ai-assistant-that-can-design-alongside-you-on-the-canvas",
+      "content": "<img src=\"https://media.thenextweb.com/2026/05/figma-ai-agent-design-canvas-assistant.avif\" width=\"868\" height=\"488\"><br /><p>Summary: Figma is launching its own AI agent that operates directly on the collaborative design canvas, letting users generate, edit, and iterate on designs through natural language prompts. The move follows partnerships with Anthropic and OpenAI and the $200 million Weavy acquisition.   For months, Figma has been opening its canvas to other people’s AI. [&hellip;]</p>\n<br /><br /><a href=\"https://thenextweb.com/news/figma-builds-its-own-ai-assistant-that-can-design-alongside-you-on-the-canvas?utm_source=social&utm_medium=feed&utm_campaign=profeed\">This story continues</a> at The Next Web",
+      "author": "Ana Maria Constantin",
+      "publishedAt": "2026-05-20T14:34:25.000Z",
+      "isRead": false,
+      "createdAt": "2026-05-20T20:25:46.364Z"
+    },
+    {
+      "id": "677c9366-45b5-439d-9970-022e5e2b0781",
+      "guid": "TheNextWeb=9029f398332424fb67a9e89acada1041",
+      "title": "GitHub confirms hackers stole thousands of internal code repositories after employee installed a poisoned VS Code extension",
+      "link": "https://thenextweb.com/news/github-confirms-hackers-stole-thousands-of-internal-code-repositories-after-employee-installed-a-poisoned-vs-code-extension",
+      "content": "<img src=\"https://media.thenextweb.com/2026/05/github-breach-teampcp-vscode-extension-internal-repos.avif\" width=\"868\" height=\"488\"><br /><p>  It is an unsettling irony when the world’s largest code-hosting platform becomes the victim of its own ecosystem. GitHub confirmed on Tuesday that a threat actor exfiltrated approximately 3,800 internal repositories after compromising an employee’s device through a poisoned Visual Studio Code extension, marking one of the most significant breaches the Microsoft-owned company has ever [&hellip;]</p>\n<br /><br /><a href=\"https://thenextweb.com/news/github-confirms-hackers-stole-thousands-of-internal-code-repositories-after-employee-installed-a-poisoned-vs-code-extension?utm_source=social&utm_medium=feed&utm_campaign=profeed\">This story continues</a> at The Next Web",
+      "author": "Darius Popa",
+      "publishedAt": "2026-05-20T14:06:49.000Z",
+      "isRead": false,
+      "createdAt": "2026-05-20T20:25:46.364Z"
+    },
+    {
+      "id": "98a860ab-5784-4c29-a1e3-f3f909e8d586",
+      "guid": "TheNextWeb=84a9aa76f803f0445ee36e1f270b5991",
+      "title": "French companies bid $10bn for one of the EU’s five planned AI gigafactory sites",
+      "link": "https://thenextweb.com/news/french-companies-bid-10bn-eu-ai-gigafactory-aion",
+      "content": "<img src=\"https://media.thenextweb.com/2026/05/A-Scaleway-led-AION-consortium.avif\" width=\"868\" height=\"488\"><br /><p>A Scaleway-led AION consortium, with backing from Iliad, GENCI, Inria, Eviden, SiPearl, Hugging Face, and Mistral-adjacent partners, is positioning France as a single-country bidder against multi-state proposals from Spain, Germany, and the Netherlands. A consortium of French companies led by Iliad’s cloud subsidiary Scaleway has bid roughly $10bn to build one of the European Union’s [&hellip;]</p>\n<br /><br /><a href=\"https://thenextweb.com/news/french-companies-bid-10bn-eu-ai-gigafactory-aion?utm_source=social&utm_medium=feed&utm_campaign=profeed\">This story continues</a> at The Next Web",
+      "author": "Allison Steffens Herrera",
+      "publishedAt": "2026-05-20T13:59:58.000Z",
+      "isRead": false,
+      "createdAt": "2026-05-20T20:25:46.364Z"
+    },
+    {
+      "id": "0aa436ba-ecd2-4c59-a712-8752847de681",
+      "guid": "TheNextWeb=3e4af81ec81191ecc668444540e448fa",
+      "title": "ChatGPT, Claude, Gemini and Grok are not ready to brief American voters",
+      "link": "https://thenextweb.com/news/chatbots-midterms-2026-news-accuracy-information-integrity",
+      "content": "<img src=\"https://media.thenextweb.com/2026/05/Chatbots.avif\" width=\"868\" height=\"488\"><br /><p>A new generation of voters will ask ChatGPT, Claude, Gemini, and Grok how to vote, where the polling station is, and who is telling the truth. The published research is consistent: the models cannot reliably answer those questions. The election will arrive anyway. In the spring of 2024, a Tow Center researcher at Columbia Journalism [&hellip;]</p>\n<br /><br /><a href=\"https://thenextweb.com/news/chatbots-midterms-2026-news-accuracy-information-integrity?utm_source=social&utm_medium=feed&utm_campaign=profeed\">This story continues</a> at The Next Web",
+      "author": "Ana-Maria Stanciuc",
+      "publishedAt": "2026-05-20T13:27:03.000Z",
+      "isRead": false,
+      "createdAt": "2026-05-20T20:25:46.364Z"
+    },
+    {
+      "id": "5db04c50-892f-44d5-8b28-85d0648a34ea",
+      "guid": "TheNextWeb=f93fdba5a08a425d852ea8b9d6c3921e",
+      "title": "This new app scans your clothes for PFAS, microplastics, and hidden toxins",
+      "link": "https://thenextweb.com/news/wove-app-clothing-pfas-microplastics-toxin-scanner",
+      "content": "<img src=\"https://media.thenextweb.com/2026/05/wove-app-clothing-pfas-microplastics-toxin-scanner.avif\" width=\"868\" height=\"488\"><br /><p>  Most health-conscious consumers have already ditched plastic containers, switched to filtered water, and overhauled their skincare routines. Clothing, however, remains a stubborn blind spot, and a new app called Wove wants to change that. Launched this week, Wove bills itself as the first mobile app that scans everyday garments for PFAS, microplastic shedding potential, [&hellip;]</p>\n<br /><br /><a href=\"https://thenextweb.com/news/wove-app-clothing-pfas-microplastics-toxin-scanner?utm_source=social&utm_medium=feed&utm_campaign=profeed\">This story continues</a> at The Next Web",
+      "author": "Alina Maria Stan",
+      "publishedAt": "2026-05-20T13:01:01.000Z",
+      "isRead": false,
+      "createdAt": "2026-05-20T20:25:46.364Z"
+    },
+    {
+      "id": "33f7695f-8ff2-47e9-97dc-e5b0fd0a3847",
+      "guid": "TheNextWeb=484b9565d541d0a9a6e040bd200e25ea",
+      "title": "QIZ Security teams up with Google Cloud to help enterprises brace for the quantum cryptography threat",
+      "link": "https://thenextweb.com/news/qiz-security-teams-up-with-google-cloud-to-help-enterprises-brace-for-the-quantum-cryptography-threat",
+      "content": "<img src=\"https://media.thenextweb.com/2026/05/qiz-security-google-cloud-quantum-resistant-cryptography.avif\" width=\"868\" height=\"488\"><br /><p>  The race to protect sensitive data from future quantum computers just gained fresh momentum. QIZ Security, a cryptographic posture management startup, has announced a collaboration with Google Cloud designed to help enterprises accelerate their migration to quantum-resistant cryptography, a shift that regulators and technologists increasingly regard as urgent. The partnership combines QIZ’s platform, which [&hellip;]</p>\n<br /><br /><a href=\"https://thenextweb.com/news/qiz-security-teams-up-with-google-cloud-to-help-enterprises-brace-for-the-quantum-cryptography-threat?utm_source=social&utm_medium=feed&utm_campaign=profeed\">This story continues</a> at The Next Web",
+      "author": "Darius Popa",
+      "publishedAt": "2026-05-20T12:53:10.000Z",
+      "isRead": false,
+      "createdAt": "2026-05-20T20:25:46.364Z"
+    },
+    {
+      "id": "01ab7342-91de-4b64-9041-e4f41480b7b6",
+      "guid": "TheNextWeb=bb9293bd942c3c304af5f6f7cf198054",
+      "title": "Lambda wins a cloud deal with Hudson River Trading to supply access to NVIDIA chips",
+      "link": "https://thenextweb.com/news/lambda-hudson-river-trading-cloud-deal-nvidia-chips",
+      "content": "<img src=\"https://media.thenextweb.com/2026/05/Lambda.avif\" width=\"868\" height=\"488\"><br /><p>The IPO-bound GPU-cloud start-up adds one of the largest US quantitative trading firms to a customer list that already includes Microsoft and NVIDIA itself. Lambda has signed a cloud-infrastructure deal with Hudson River Trading, one of the largest US quantitative trading firms, to supply HRT with access to NVIDIA chips, Reuters reported on Wednesday. The [&hellip;]</p>\n<br /><br /><a href=\"https://thenextweb.com/news/lambda-hudson-river-trading-cloud-deal-nvidia-chips?utm_source=social&utm_medium=feed&utm_campaign=profeed\">This story continues</a> at The Next Web",
+      "author": "Ana-Maria Stanciuc",
+      "publishedAt": "2026-05-20T12:35:58.000Z",
+      "isRead": false,
+      "createdAt": "2026-05-20T20:25:46.364Z"
+    },
+    {
+      "id": "c439fe3c-9773-4821-ac58-3c4e84b44e20",
+      "guid": "TheNextWeb=aaa242bdc87b218708612b70d5957767",
+      "title": "Fairplay and NCSE ask the FTC to investigate Roblox over child safety and ‘unfair and deceptive’ marketing",
+      "link": "https://thenextweb.com/news/roblox-ftc-complaint-fairplay-ncse-child-safety",
+      "content": "<img src=\"https://media.thenextweb.com/2026/04/roblox-age-gated-account-tiers-kids-select-child-safety.avif\" width=\"868\" height=\"488\"><br /><p>The complaint accuses the gaming platform of misleading the public about its safety and pressuring young users to spend. Roblox ‘strongly disputes’ the claims; the FTC has declined to comment. Two children’s advocacy groups, Fairplay and the National Center on Sexual Exploitation, asked the US Federal Trade Commission on Wednesday to investigate Roblox, Reuters reported, [&hellip;]</p>\n<br /><br /><a href=\"https://thenextweb.com/news/roblox-ftc-complaint-fairplay-ncse-child-safety?utm_source=social&utm_medium=feed&utm_campaign=profeed\">This story continues</a> at The Next Web",
+      "author": "Ana-Maria Stanciuc",
+      "publishedAt": "2026-05-20T12:12:24.000Z",
+      "isRead": false,
+      "createdAt": "2026-05-20T20:25:46.364Z"
     }
   ]
 }
