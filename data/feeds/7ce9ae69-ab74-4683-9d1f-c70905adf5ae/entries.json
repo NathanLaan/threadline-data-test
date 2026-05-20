@@ -2200,6 +2200,39 @@
       "publishedAt": "2026-04-27T16:00:03.000Z",
       "isRead": false,
       "createdAt": "2026-05-20T20:25:43.435Z"
+    },
+    {
+      "id": "219849d7-9d6d-46a4-9a8d-cd6071af9f3b",
+      "guid": "2527312-the-mysterious-reason-why-women-get-hotter-from-age-18-to-42|2527312",
+      "title": "The mysterious reason why women get hotter from age 18 to 42",
+      "link": "https://www.newscientist.com/article/2527312-the-mysterious-reason-why-women-get-hotter-from-age-18-to-42/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "content": "Women experience a steady rise in body temperature from their teens to midlife, which may be useful for monitoring ageing and overall health",
+      "author": null,
+      "publishedAt": "2026-05-20T19:00:46.000Z",
+      "isRead": false,
+      "createdAt": "2026-05-20T21:34:10.069Z"
+    },
+    {
+      "id": "95c5460f-0ed7-4d9c-8846-02077669ec90",
+      "guid": "2525755-can-we-harness-quantum-effects-to-create-a-new-kind-of-healthcare|2525755",
+      "title": "Can we harness quantum effects to create a new kind of healthcare?",
+      "link": "https://www.newscientist.com/article/2525755-can-we-harness-quantum-effects-to-create-a-new-kind-of-healthcare/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "content": "Experiments hint that quantum mechanisms are vital to the machinery of life. Now researchers are exploring if these effects help to explain the success of an array of puzzling health treatments",
+      "author": null,
+      "publishedAt": "2026-05-20T18:00:42.000Z",
+      "isRead": false,
+      "createdAt": "2026-05-20T21:34:10.069Z"
+    },
+    {
+      "id": "fad39920-abc0-4960-b92f-32abe5a71ec9",
+      "guid": "2527336-we-could-generate-hydrogen-from-rocks-while-storing-co2-in-them|2527336",
+      "title": "We could generate hydrogen from rocks while storing CO2 in them",
+      "link": "https://www.newscientist.com/article/2527336-we-could-generate-hydrogen-from-rocks-while-storing-co2-in-them/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "content": "Storing carbon dioxide in rocks while producing hydrogen from them - and perhaps even geothermal power too - could be a double win on the climate front, and several groups are trying to make it happen",
+      "author": null,
+      "publishedAt": "2026-05-20T17:00:32.000Z",
+      "isRead": false,
+      "createdAt": "2026-05-20T21:34:10.069Z"
     }
   ]
 }
