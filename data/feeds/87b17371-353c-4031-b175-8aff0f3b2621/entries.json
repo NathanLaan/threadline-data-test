@@ -440,6 +440,28 @@
       "publishedAt": "2026-05-19T21:14:08.000Z",
       "isRead": false,
       "createdAt": "2026-05-20T20:25:45.823Z"
+    },
+    {
+      "id": "d09a2443-bd1c-47ef-b852-c4e520452f5a",
+      "guid": "https://techcrunch.com/?p=3124692",
+      "title": "Microsoft’s carbon removal plans aren’t dead after all",
+      "link": "https://techcrunch.com/2026/05/20/microsofts-carbon-removal-plans-arent-dead-after-all/",
+      "content": "Microsoft is responsible for over 90% of the carbon removal market, and reports suggested the company was pausing purchases entirely. This new deal should help assuage the fears of CDR startups.",
+      "author": "Tim De Chant",
+      "publishedAt": "2026-05-20T20:30:24.000Z",
+      "isRead": false,
+      "createdAt": "2026-05-20T20:30:44.206Z"
+    },
+    {
+      "id": "23dc1b4e-7ae2-427f-bc22-dce03259ce93",
+      "guid": "https://techcrunch.com/?p=3124770",
+      "title": "OpenAI claims it solved an 80-year-old math problem — for real this time",
+      "link": "https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/",
+      "content": "OpenAI claims its reasoning model disproved a geometry conjecture unsolved since 1946 — and this time, the mathematicians who exposed its last embarrassing claim are backing it up.",
+      "author": "Rebecca Bellan",
+      "publishedAt": "2026-05-20T20:28:27.000Z",
+      "isRead": false,
+      "createdAt": "2026-05-20T20:30:44.206Z"
     }
   ]
 }
