@@ -473,6 +473,39 @@
       "publishedAt": "2026-05-20T20:52:00.000Z",
       "isRead": false,
       "createdAt": "2026-05-20T20:55:43.202Z"
+    },
+    {
+      "id": "078cfd4a-efde-4c8e-b1d1-34c937216846",
+      "guid": "https://techcrunch.com/?p=3124805",
+      "title": "Anthropic will pay xAI $1.25 billion per month for compute",
+      "link": "https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute/",
+      "content": "Elon Musk's xAI surprised the AI world when it made a deal to sell compute to Anthropic. Now we know how much it's worth.",
+      "author": "Tim De Chant",
+      "publishedAt": "2026-05-20T21:29:22.000Z",
+      "isRead": false,
+      "createdAt": "2026-05-20T21:29:35.436Z"
+    },
+    {
+      "id": "b2df9294-0a30-4e3d-bd4f-aaba43408944",
+      "guid": "https://techcrunch.com/?p=3124612",
+      "title": "Sam Altman makes ‘mic drop’ offer to every Y Combinator startup",
+      "link": "https://techcrunch.com/2026/05/20/sam-altman-makes-mic-drop-offer-to-every-y-combinator-startup/",
+      "content": "Altman offered to have OpenAI invest in every single startup in this Y Combinator class: tokens for equity.",
+      "author": "Julie Bort",
+      "publishedAt": "2026-05-20T21:23:02.000Z",
+      "isRead": false,
+      "createdAt": "2026-05-20T21:29:35.437Z"
+    },
+    {
+      "id": "dcc0c1ff-8832-4eec-94bb-c30f8f97bfaa",
+      "guid": "https://techcrunch.com/?post_type=tc_video&p=3124824",
+      "title": "You don’t need to be an AI startup to raise. Lucra has $20M to prove it. ",
+      "link": "https://techcrunch.com/video/you-dont-need-to-be-an-ai-startup-to-raise-lucra-has-20m-to-prove-it/",
+      "content": "Slapping &#8220;AI&#8221; on your&#160;startup’s&#160;pitch deck is&#160;basically table&#160;stakes right now. When a founder&#160;raised $20 million from Cathie Wood&#8217;s ARK Invest&#160;for an eSports&#160;gamification&#160;loyalty startup without those two letters in the spotlight, it got us wondering how the conversation even started&#160;—&#160;especially&#160;when ARK had already been burned by a company&#160;operating&#160;in the same space.&#160; On this episode of TechCrunch&#8217;s&#160;Equity&#160;podcast, Julie [&#8230;]",
+      "author": "Theresa Loconsolo",
+      "publishedAt": "2026-05-20T21:21:22.000Z",
+      "isRead": false,
+      "createdAt": "2026-05-20T21:29:35.437Z"
     }
   ]
 }
