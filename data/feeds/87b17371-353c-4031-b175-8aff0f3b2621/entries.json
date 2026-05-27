@@ -528,6 +528,226 @@
       "publishedAt": "2026-05-20T22:03:51.000Z",
       "isRead": false,
       "createdAt": "2026-05-20T22:04:11.254Z"
+    },
+    {
+      "id": "62905631-b0ac-4f62-9510-a77f1902fc9a",
+      "guid": "https://techcrunch.com/?p=3126682",
+      "title": "Payroll startup Remote says it grew revenue 50% per employee without adding headcount",
+      "link": "https://techcrunch.com/2026/05/27/payroll-startup-remote-says-it-grew-revenue-50-per-employee-without-adding-headcount/",
+      "content": "Payroll service provider Remote recently surpassed $300 million in annual recurring revenue (ARR) and became cash-flow positive, thanks to a 50% increase in revenue per employee resulting from AI adoption.",
+      "author": "Anna Heim",
+      "publishedAt": "2026-05-27T19:39:45.000Z",
+      "isRead": false,
+      "createdAt": "2026-05-27T19:55:57.130Z"
+    },
+    {
+      "id": "bf974bd4-d7fa-4352-8309-867ab987fc49",
+      "guid": "https://techcrunch.com/?p=3126250",
+      "title": "UK Visa Portal exposed thousands of applicants’ passports and selfies — then called the lawyers on us",
+      "link": "https://techcrunch.com/2026/05/27/uk-visa-portal-spilled-thousands-of-applicants-passports-and-selfies-online-and-hasnt-fixed-the-leak/",
+      "content": "The third-party website exposed passports, selfies, and the location data of applicants who submitted their documents as part of the U.K. visa application process. Instead of fixing the issue, the website sent attorneys.",
+      "author": "Zack Whittaker",
+      "publishedAt": "2026-05-27T18:25:00.000Z",
+      "isRead": false,
+      "createdAt": "2026-05-27T19:55:57.130Z"
+    },
+    {
+      "id": "b7e287a7-b788-42e0-97be-5485d157fc1f",
+      "guid": "https://techcrunch.com/?p=3126558",
+      "title": "Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come, including AI plans",
+      "link": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/",
+      "content": "Meta is rolling out paid subscription plans for Instagram, Facebook, and WhatsApp worldwide, while also testing new AI, creator, and business-focused offerings under its broader “Meta One” subscription brand.",
+      "author": "Sarah Perez",
+      "publishedAt": "2026-05-27T18:00:00.000Z",
+      "isRead": false,
+      "createdAt": "2026-05-27T19:55:57.130Z"
+    },
+    {
+      "id": "0f962a8a-0dd2-4245-bb04-6a803f6e95c6",
+      "guid": "https://techcrunch.com/?p=3126561",
+      "title": "With a new $100M raise, Princeton’s Thea Energy is now a top-funded fusion startup",
+      "link": "https://techcrunch.com/2026/05/27/with-a-new-100m-raise-princetons-thea-energy-is-now-a-top-funded-fusion-startup/",
+      "content": "Thea Energy's pixel-inspired magnets could give its power plant plans a boost. The fusion startup hopes to get a commercial reactor working by 2034.",
+      "author": "Tim De Chant",
+      "publishedAt": "2026-05-27T17:54:28.000Z",
+      "isRead": false,
+      "createdAt": "2026-05-27T19:55:57.130Z"
+    },
+    {
+      "id": "1c03f1a4-2087-4e2c-8ccc-c73d869ab69e",
+      "guid": "https://techcrunch.com/?p=3126575",
+      "title": "CrowdStrike and Google take down botnet used by hackers to target software developers in supply chain attacks",
+      "link": "https://techcrunch.com/2026/05/27/crowdstrike-and-google-take-down-botnet-used-by-hackers-to-target-software-developers-in-supply-chain-attacks/",
+      "content": "Cybercriminals used the Glassworm botnet to infect open source software projects with malware, and in turn hack the developers and companies that use that software.",
+      "author": "Lorenzo Franceschi-Bicchierai",
+      "publishedAt": "2026-05-27T16:59:19.000Z",
+      "isRead": false,
+      "createdAt": "2026-05-27T19:55:57.130Z"
+    },
+    {
+      "id": "660b78a5-9653-479c-bcd4-e660e0698ffd",
+      "guid": "https://techcrunch.com/?p=3126284",
+      "title": "AI coding startup Cognition raises $1B at $25B pre-money valuation",
+      "link": "https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/",
+      "content": "As Cognition reaches $492 million in annualized revenue run rate, it more than doubled its valuation in eight months, it says.",
+      "author": "Julie Bort",
+      "publishedAt": "2026-05-27T16:00:00.000Z",
+      "isRead": false,
+      "createdAt": "2026-05-27T19:55:57.130Z"
+    },
+    {
+      "id": "338c6a8f-1055-4f68-abc9-0d5581a4a0d6",
+      "guid": "https://techcrunch.com/?p=3126549",
+      "title": "FAA orders SpaceX to investigate Starship V3 booster failure",
+      "link": "https://techcrunch.com/2026/05/27/faa-orders-spacex-to-investigate-starship-v3-booster-failure/",
+      "content": "Starship is grounded until SpaceX finds out why the first V3 booster failed during its first test flight. ",
+      "author": "Sean O'Kane",
+      "publishedAt": "2026-05-27T15:20:16.000Z",
+      "isRead": false,
+      "createdAt": "2026-05-27T19:55:57.130Z"
+    },
+    {
+      "id": "db27d2a0-569c-4380-8269-110b6a641637",
+      "guid": "https://techcrunch.com/?p=3126444",
+      "title": "Startup Battlefield 200 applications close today: Nominate a founder or submit your startup",
+      "link": "https://techcrunch.com/2026/05/27/startup-battlefield-200-applications-close-today-nominate-a-founder-or-submit-your-startup/",
+      "content": "Today is the final day to apply or nominate a startup for Startup Battlefield 200. Once the clock strikes 11:59 p.m. PT, the window closes on your chance to compete for $100,000 in equity-free funding, gain global visibility, connect directly with investors, and launch on the TechCrunch Disrupt stage.",
+      "author": "TechCrunch Events",
+      "publishedAt": "2026-05-27T14:15:00.000Z",
+      "isRead": false,
+      "createdAt": "2026-05-27T19:55:57.130Z"
+    },
+    {
+      "id": "d54dd06b-b532-45a8-8f14-e64186899c57",
+      "guid": "https://techcrunch.com/?p=3126480",
+      "title": "ElevenLabs’ new music-generation model can switch genres mid-track",
+      "link": "https://techcrunch.com/2026/05/27/elevenlabss-new-music-generation-model-can-switch-genres-mid-track/",
+      "content": "ElevenLabs' new model will let users regenerate a section of a song without affecting the rest of the track.",
+      "author": "Ivan Mehta",
+      "publishedAt": "2026-05-27T14:14:10.000Z",
+      "isRead": false,
+      "createdAt": "2026-05-27T19:55:57.130Z"
+    },
+    {
+      "id": "85d0681b-15f4-42d3-8d72-f27668a7e79a",
+      "guid": "https://techcrunch.com/?p=3126524",
+      "title": "Spotify now lets you ‘clip’ moments from your favorite podcast",
+      "link": "https://techcrunch.com/2026/05/27/spotify-now-lets-you-clip-moments-from-your-favorite-podcast/",
+      "content": "With the new scissors icon, you can clip favorite moments from podcasts and share them with your audience. ",
+      "author": "Sarah Perez",
+      "publishedAt": "2026-05-27T14:05:37.000Z",
+      "isRead": false,
+      "createdAt": "2026-05-27T19:55:57.130Z"
+    },
+    {
+      "id": "a70951c8-bef7-42e1-99d1-34918d748b22",
+      "guid": "https://techcrunch.com/?p=3125934",
+      "title": "SOND, a sleep tech startup from Bose’s former head of sleep, exits stealth with $7M",
+      "link": "https://techcrunch.com/2026/05/27/sond-a-sleep-tech-startup-from-boses-former-head-of-sleep-exits-stealth-with-7m/",
+      "content": "SOND introduced its debut product: Dreambuds, a closed-loop, in-ear system that captures 12 physiological signals from the wearer, then acts on them in real time to help consumers get better sleep.",
+      "author": "Sarah Perez",
+      "publishedAt": "2026-05-27T14:00:00.000Z",
+      "isRead": false,
+      "createdAt": "2026-05-27T19:55:57.130Z"
+    },
+    {
+      "id": "4d35c90a-a41d-47db-ac78-7b68a3047ad2",
+      "guid": "https://techcrunch.com/?p=3126457",
+      "title": "TechCrunch Disrupt 2026 Early Bird ticket savings end in 3 days",
+      "link": "https://techcrunch.com/2026/05/27/techcrunch-disrupt-2026-early-bird-ticket-savings-end-in-3-days/",
+      "content": "There are only 3 days left to save up to $410 on your ticket to TechCrunch Disrupt 2026. Early Bird pricing ends May 29 at 11:59 p.m. PT, and once the deadline passes, ticket prices increase. If you plan to attend one of the most influential gatherings in tech this year, now is the time to lock in your pass before rates go up again.",
+      "author": "TechCrunch Events",
+      "publishedAt": "2026-05-27T14:00:00.000Z",
+      "isRead": false,
+      "createdAt": "2026-05-27T19:55:57.130Z"
+    },
+    {
+      "id": "fc5edc71-3d30-4535-bb63-b787ab03cf15",
+      "guid": "https://techcrunch.com/?post_type=tc_video&p=3126659",
+      "title": "Google just broke SEO. Here’s what replaces it.",
+      "link": "https://techcrunch.com/video/google-just-broke-seo-heres-what-replaces-it/",
+      "content": "Google I/O made it official: AI-generated answers are now front and&#160;center&#160;in search, and most brands have almost no visibility into how AI is describing them to their customers.&#160;For anyone who has spent years building a strategy around 10 blue links, the rules just changed in a pretty significant way.&#160; On this episode of TechCrunch&#8217;s Equity podcast, Rebecca [&#8230;]",
+      "author": "Theresa Loconsolo",
+      "publishedAt": "2026-05-27T14:00:00.000Z",
+      "isRead": false,
+      "createdAt": "2026-05-27T19:55:57.130Z"
+    },
+    {
+      "id": "2790723c-f097-49fd-9318-18027ebadfd7",
+      "guid": "https://techcrunch.com/?p=3126478",
+      "title": "China is increasingly keeping its best AI talent to itself",
+      "link": "https://techcrunch.com/2026/05/27/china-is-increasingly-keeping-its-best-ai-talent-to-itself/",
+      "content": "China's AI boom is producing world-class talent, and Beijing is increasingly reluctant to let them go elsewhere.",
+      "author": "Kate Park",
+      "publishedAt": "2026-05-27T13:48:41.000Z",
+      "isRead": false,
+      "createdAt": "2026-05-27T19:55:57.130Z"
+    },
+    {
+      "id": "1d76696a-7a38-4f34-9380-cd0dda9ca44e",
+      "guid": "https://techcrunch.com/?p=3126507",
+      "title": "ClickHouse triples annualized revenue to $250M, charting a path toward an IPO",
+      "link": "https://techcrunch.com/2026/05/27/clickhouse-triples-annualized-revenue-to-250m-charting-a-path-toward-an-ipo/",
+      "content": "The database provider is eyeing a public debut within the next few years.",
+      "author": "Marina Temkin",
+      "publishedAt": "2026-05-27T13:04:20.000Z",
+      "isRead": false,
+      "createdAt": "2026-05-27T19:55:57.130Z"
+    },
+    {
+      "id": "4f1dcdbb-d99d-4508-a00b-49c7baaf5592",
+      "guid": "https://techcrunch.com/?p=3126054",
+      "title": "YouTube will now automatically label AI videos",
+      "link": "https://techcrunch.com/2026/05/27/youtube-will-now-automatically-label-ai-videos/",
+      "content": "YouTube will now automatically label videos that use significant photorealistic AI, instead of relying solely on creators to disclose AI-generated content themselves. It's also making AI labels more prominent. ",
+      "author": "Sarah Perez",
+      "publishedAt": "2026-05-27T13:00:00.000Z",
+      "isRead": false,
+      "createdAt": "2026-05-27T19:55:57.130Z"
+    },
+    {
+      "id": "e3e9dfd9-83fe-4c35-9ccf-a64c0aa1ced8",
+      "guid": "https://techcrunch.com/?p=3126156",
+      "title": "Tech CEOs are apparently suffering from AI psychosis",
+      "link": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
+      "content": "\"CEOs are uniquely prone to AI psychosis,\" Box CEO Aaron Levie opines. Maybe that explains the almost religious belief in AI productivity gains.",
+      "author": "Julie Bort",
+      "publishedAt": "2026-05-27T12:30:00.000Z",
+      "isRead": false,
+      "createdAt": "2026-05-27T19:55:57.130Z"
+    },
+    {
+      "id": "634ce784-363b-4159-8fcf-a211164b2086",
+      "guid": "https://techcrunch.com/?p=3126467",
+      "title": "Robinhood now lets your AI agents trade stocks",
+      "link": "https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/",
+      "content": "Robinhood will let users create a separate account with pre-loaded balance that an agent use to trade",
+      "author": "Ivan Mehta",
+      "publishedAt": "2026-05-27T12:30:00.000Z",
+      "isRead": false,
+      "createdAt": "2026-05-27T19:55:57.130Z"
+    },
+    {
+      "id": "c31579fa-489b-43a8-80eb-785dd055c7bf",
+      "guid": "https://techcrunch.com/?p=3126231",
+      "title": "Airbnb-backed WeRoad raises $58M to take its group travel platform to the US",
+      "link": "https://techcrunch.com/2026/05/27/airbnb-backed-weroad-raises-58m-to-take-its-group-travel-platform-to-the-us/",
+      "content": "WeRoad, the Milan-based group travel startup, has raised a $58 million Series C round led by Airbnb as it prepares for its first major expansion outside Europe. The funding brings the company’s total capital raised to roughly $100 million and will finance WeRoad’s push into the U.S., beginning with Austin. The new investment reflects a [&#8230;]",
+      "author": "Lauren Forristal",
+      "publishedAt": "2026-05-27T08:00:00.000Z",
+      "isRead": false,
+      "createdAt": "2026-05-27T19:55:57.130Z"
+    },
+    {
+      "id": "ca4dae30-e927-4154-9ef4-be5d29cd99e1",
+      "guid": "https://techcrunch.com/?p=3107547",
+      "title": "What we’re looking for in Startup Battlefield 2026, and how to apply in time for the May 27 deadline",
+      "link": "https://techcrunch.com/2026/05/26/what-were-looking-for-in-startup-battlefield-2026-and-how-to-apply-in-time-for-the-may-27-deadline/",
+      "content": "Startup Battlefield applications are due tomorrow, so now's the time to put the finishing touches on your submission!",
+      "author": "Isabelle Johannessen",
+      "publishedAt": "2026-05-26T22:55:01.000Z",
+      "isRead": false,
+      "createdAt": "2026-05-27T19:55:57.130Z"
     }
   ]
 }

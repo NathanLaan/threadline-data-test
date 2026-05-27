@@ -440,6 +440,39 @@
       "publishedAt": "2026-04-08T23:27:17.000Z",
       "isRead": false,
       "createdAt": "2026-05-20T20:25:40.496Z"
+    },
+    {
+      "id": "23022875-3289-45b7-b05e-35d74cdda1bb",
+      "guid": "https://grahamcluley.com/?p=17351433",
+      "title": "FBI warns of Kali365 phishing kit that breaks into Microsoft 365 accounts – no password required",
+      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/fbi-kali365-phishing-kit-breaks-microsoft-365-accounts-no-password-required",
+      "content": "So, you've enabled multi-factor authentication. You've taught your staff never to type their passwords into dodgy-looking login pages. Surely your Microsoft 365 accounts are safe now?\r\n\r\nWell, think again.\r\n\r\nRead more in my article on the Hot for Security blog.",
+      "author": "Graham Cluley",
+      "publishedAt": "2026-05-26T16:24:02.000Z",
+      "isRead": false,
+      "createdAt": "2026-05-27T19:55:54.589Z"
+    },
+    {
+      "id": "9e690c2c-84ba-4042-8534-f0a7ea53aa3d",
+      "guid": "https://grahamcluley.com/?p=17351428",
+      "title": "Defenders fall behind, as AI rewrites the rules of a data breach",
+      "link": "https://www.fortra.com/blog/defenders-fall-behind-ai-rewrites-rules-data-breach",
+      "content": "For almost 20 years, stolen credentials have been the most common route for attackers into organizations, according to the Verizon Data Breach Investigations Report (DBIR). But that's no longer the case.\r\n\r\nRead more in my article on the Fortra blog.",
+      "author": "Graham Cluley",
+      "publishedAt": "2026-05-21T17:13:28.000Z",
+      "isRead": false,
+      "createdAt": "2026-05-27T19:55:54.589Z"
+    },
+    {
+      "id": "32c9c8b8-bd7a-4fb6-9c93-41cfdc9eeefd",
+      "guid": "https://grahamcluley.com/?p=17351418",
+      "title": "Smashing Security podcast #468: High-speed train hacks and homicidal lawnmowers",
+      "link": "https://grahamcluley.com/smashing-security-podcast-468/",
+      "content": "A 23-year-old radio enthusiast spent £300 on a piece of kit from the internet, and used it to bring four packed high-speed trains to a screeching halt. His defence in court? Possibly the most creative excuse we've heard all year.\r\n\r\nMeanwhile, owners of $4,000 robot lawnmowers are discovering that their gadget can be hijacked over the internet, redirected at journalists who foolishly lie down in front of it, and used to harvest Wi-Fi passwords, email addresses, and GPS coordinates. Change the default password? Sure - until the next firmware update silently resets it back.\r\n\r\nPlus - don't miss our featured interview with XBOW's Brendan Dolan-Gavitt about how AI is transforming penetration testing.\r\n\r\nAll this and more in episode 468 of the \"Smashing Security\" podcast with cybersecurity expert and keynote speaker Graham Cluley, and special guest Geoff White.",
+      "author": "Graham Cluley",
+      "publishedAt": "2026-05-20T23:04:42.000Z",
+      "isRead": false,
+      "createdAt": "2026-05-27T19:55:54.589Z"
     }
   ]
 }
