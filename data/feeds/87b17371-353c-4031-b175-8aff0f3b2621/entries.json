@@ -748,6 +748,17 @@
       "publishedAt": "2026-05-26T22:55:01.000Z",
       "isRead": false,
       "createdAt": "2026-05-27T19:55:57.130Z"
+    },
+    {
+      "id": "5f5b6b71-d9d5-4a8f-95da-7018de259f77",
+      "guid": "https://techcrunch.com/?p=3126638",
+      "title": "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips",
+      "link": "https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/",
+      "content": "Snowflake has signed a new, enormous five-year deal with Amazon to secure chips for AI usage. Nvidia is once again being put on notice.",
+      "author": "Julie Bort",
+      "publishedAt": "2026-05-27T20:10:00.000Z",
+      "isRead": false,
+      "createdAt": "2026-05-27T20:10:58.169Z"
     }
   ]
 }
