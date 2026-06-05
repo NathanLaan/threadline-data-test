@@ -880,6 +880,17 @@
       "publishedAt": "2026-06-02T09:54:48.000Z",
       "isRead": false,
       "createdAt": "2026-06-05T16:58:39.143Z"
+    },
+    {
+      "id": "0720ecff-6918-4517-ac16-689b58485d02",
+      "guid": "https://www.csoonline.com/article/4181839/patching-fast-and-slow-ruby-devs-delay-to-defend-against-supply-chain-attack-2.html",
+      "title": "Patching fast and slow: Ruby devs delay to defend against supply chain attack",
+      "link": "https://www.csoonline.com/article/4181839/patching-fast-and-slow-ruby-devs-delay-to-defend-against-supply-chain-attack-2.html",
+      "content": "<div id=\"remove_no_follow\">\n\t\t<div class=\"grid grid--cols-10@md grid--cols-8@lg article-column\">\n\t\t\t\t\t  <div class=\"col-12 col-10@md col-6@lg col-start-3@lg\">\n\t\t\t\t\t\t<div class=\"article-column__content\">\n<section class=\"wp-block-bigbite-multi-title\"><div class=\"container\"></div></section>\n\n\n\n<p>The team behind RubyGems, a package hosting site for Ruby developers, has added a new feature to bundler, a tool for managing Ruby packages (or ‘gems’) to protect developers against the recent wave of <a href=\"https://www.csoonline.com/article/4081492/modern-supply-chain-attacks-and-their-real-world-impact.html\">software supply chain attacks</a>: A cooling-off period before recently updated packages are installed on their systems.</p>\n\n\n\n<p>Recent <a href=\"https://www.csoonline.com/article/4179866/infected-red-hat-npm-packages-expose-developer-credentials.html\">attacks on software repositories</a> have focused on stealing developer credentials in order to introduce malicious code into the packages they create, which then steals more developers’ credentials when they install the malicious updates, and so on. Users of the repositories are vulnerable if they download an affected package during the short interval between it being interfered with and the malicious additions being discovered and removed.</p>\n\n\n\n<p>To counteract this, RubyGems team has added <a href=\"https://blog.rubygems.org/2026/06/03/cooldown-let-new-gems-be-vetted.html\" target=\"_blank\" rel=\"noreferrer noopener\">a new cooldown argument to Bundler</a> that takes ignores gems until they have been published for a specified number of days. This provides an additional layer of defense against malicious package releases as it gives others an opportunity to identify any malicious code they contain before installation.</p>\n\n\n\n<p>The cooldown system works by checking the timestamp of any new versions of gems. Any new additions to the source will have to come from older versions, any new additions will be delayed until they are validated.</p>\n\n\n\n<p>In situations where waiting is unhelpful — for instance when a known-good package is released to patch a dangerous security flaw — the delay can be overridden.</p>\n\n\n\n<p><em>This article first appeared on <a href=\"https://www.infoworld.com/article/4181836/patching-fast-and-slow-ruby-devs-delay-to-defend-against-supply-chain-attack.html\">InfoWorld</a>.</em></p>\n</div></div></div></div>",
+      "author": null,
+      "publishedAt": "2026-06-05T17:07:00.000Z",
+      "isRead": false,
+      "createdAt": "2026-06-05T17:08:38.726Z"
     }
   ]
 }
