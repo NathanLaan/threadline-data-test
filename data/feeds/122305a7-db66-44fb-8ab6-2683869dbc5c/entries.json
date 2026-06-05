@@ -2079,6 +2079,17 @@
       "publishedAt": "2026-05-28T13:53:52.000Z",
       "isRead": false,
       "createdAt": "2026-06-05T16:58:55.165Z"
+    },
+    {
+      "id": "7409aadf-9327-4b42-b1a4-aa3c56667e59",
+      "guid": "https://thehackernews.com/2026/06/ironworm-and-new-miasma-worm-variant.html",
+      "title": "IronWorm and New Miasma Worm Variant Hit npm in Supply Chain Attacks",
+      "link": "https://thehackernews.com/2026/06/ironworm-and-new-miasma-worm-variant.html",
+      "content": "Multiple software supply chain attacks have hit the npm ecosystem, with threat actors using both malicious and poisoned versions of over 50 legitimate packages to distribute a Rust-based information stealer and a self-spreading worm, respectively.\n\nAccording to JFrog, the information stealer \"scrapes every secret it can find on a developer's machine, hides behind an eBPF kernel rootkit, and",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "publishedAt": "2026-06-05T18:05:30.000Z",
+      "isRead": false,
+      "createdAt": "2026-06-05T19:04:18.379Z"
     }
   ]
 }
