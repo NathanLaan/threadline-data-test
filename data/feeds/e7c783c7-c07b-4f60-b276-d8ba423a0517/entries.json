@@ -1760,6 +1760,39 @@
       "publishedAt": "2026-06-05T16:52:10.000Z",
       "isRead": false,
       "createdAt": "2026-06-05T17:13:59.521Z"
+    },
+    {
+      "id": "8070fce9-7bc7-41af-b526-792c6a9d5700",
+      "guid": "https://www.inc.com/lucia-auerbach/even-high-tech-ai-distilleries-are-not-safe-from-the-current-bourbon-slowdown/91355997",
+      "title": "Even High-Tech AI Distilleries Aren’t Safe From the Current Bourbon Slowdown",
+      "link": "https://www.inc.com/lucia-auerbach/even-high-tech-ai-distilleries-are-not-safe-from-the-current-bourbon-slowdown/91355997",
+      "content": "<p>Despite utilizing advanced machine learning models and maintaining a strong sales pipeline, Whiskey House of Kentucky just reduced its workforce by 30 percent. </p>\n",
+      "author": "Lucia Auerbach",
+      "publishedAt": "2026-06-05T17:12:15.000Z",
+      "isRead": false,
+      "createdAt": "2026-06-05T17:28:59.336Z"
+    },
+    {
+      "id": "64028f6c-7c43-4a6f-87be-b31061bfa290",
+      "guid": "https://www.inc.com/chloe-aiello/fbi-intelligence-report-warning-linkedin-target-foreign-spies/91356671",
+      "title": "An FBI Intelligence Report Warns This LinkedIn Practice Could Make You a Target for Spies",
+      "link": "https://www.inc.com/chloe-aiello/fbi-intelligence-report-warning-linkedin-target-foreign-spies/91356671",
+      "content": "<p>Here’s how they operate—and how to protect yourself.</p>\n",
+      "author": "Chloe Aiello",
+      "publishedAt": "2026-06-05T17:11:23.000Z",
+      "isRead": false,
+      "createdAt": "2026-06-05T17:28:59.336Z"
+    },
+    {
+      "id": "f454d5fb-b847-44b7-ada6-e9fb3394bc77",
+      "guid": "https://www.inc.com/amaya-nichole/the-knicks-and-spurs-have-already-won-this-massive-financial-prize/91356039",
+      "title": "Forget the Trophy: The Knicks and Spurs Have Already Won This Massive Financial Prize",
+      "link": "https://www.inc.com/amaya-nichole/the-knicks-and-spurs-have-already-won-this-massive-financial-prize/91356039",
+      "content": "<p>Both franchises are cashing in on this year’s NBA Finals. As the series continues, analysts expect the two to break a number of financial records. </p>\n",
+      "author": "Amaya Nichole",
+      "publishedAt": "2026-06-05T17:04:52.000Z",
+      "isRead": false,
+      "createdAt": "2026-06-05T17:28:59.336Z"
     }
   ]
 }
