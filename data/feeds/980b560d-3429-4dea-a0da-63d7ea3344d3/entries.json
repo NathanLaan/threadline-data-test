@@ -132,6 +132,39 @@
       "publishedAt": "2026-03-20T01:57:53.000Z",
       "isRead": false,
       "createdAt": "2026-05-20T20:25:37.579Z"
+    },
+    {
+      "id": "10a1ad6c-39ee-4edf-af78-7fc33cbb1e30",
+      "guid": "https://boredgiant.com/?p=8234",
+      "title": "Apps of the Day: June 5, 2026",
+      "link": "https://boredgiant.com/2026/06/05/apps-of-the-day-june-5-2026/",
+      "content": "Apps of the Day: June 5, 2026 – 25 fresh Amazon apps including wallpapers, memory games, reflex challenges, art tools, and movie trivia. #boredgiant",
+      "author": "admin",
+      "publishedAt": "2026-06-05T03:17:06.000Z",
+      "isRead": false,
+      "createdAt": "2026-06-05T16:58:38.950Z"
+    },
+    {
+      "id": "17c13b4c-3997-4945-8267-9daf1f5c9b61",
+      "guid": "https://boredgiant.com/?p=8232",
+      "title": "Apps of the Day: June 4, 2026",
+      "link": "https://boredgiant.com/2026/06/04/apps-of-the-day-june-4-2026/",
+      "content": "Today's roundup features 20 fresh apps for Amazon — from peaceful wallpapers and coloring books to fast reflex games and habit trackers. Whether you want to relax with wildlife art, smash viruses, trigger volcano eruptions, or follow live UEFA scores, there's something here for everyone. All available now. #boredgiant\n\n👉 Read the full list inside.\n",
+      "author": "admin",
+      "publishedAt": "2026-06-04T07:57:18.000Z",
+      "isRead": false,
+      "createdAt": "2026-06-05T16:58:38.950Z"
+    },
+    {
+      "id": "9a7b9d1a-bcdb-4728-82eb-a8946b1ad678",
+      "guid": "https://boredgiant.com/?p=8230",
+      "title": "From Lite HTTP Server to Lite File Server: Building Practical Android Networking Tools",
+      "link": "https://boredgiant.com/2026/05/31/from-lite-http-server-to-lite-file-server-building-practical-android-networking-tools/",
+      "content": "Some projects begin with a grand vision. Others emerge from a simple observation. While developing Lite HTTP Server, I realized that many users only needed one thing: an easy way to share files. That realization became Lite File Server, the next step in my ongoing journey of building practical Android utility applications.\n",
+      "author": "admin",
+      "publishedAt": "2026-05-31T18:13:05.000Z",
+      "isRead": false,
+      "createdAt": "2026-06-05T16:58:38.950Z"
     }
   ]
 }
