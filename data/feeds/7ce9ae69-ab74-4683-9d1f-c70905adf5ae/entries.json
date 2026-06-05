@@ -3102,6 +3102,39 @@
       "publishedAt": "2026-05-27T18:00:00.000Z",
       "isRead": false,
       "createdAt": "2026-06-05T16:58:43.855Z"
+    },
+    {
+      "id": "eb284374-296b-4645-82e5-d3e0ac5350c1",
+      "guid": "2529420-cuts-to-us-ocean-programme-will-hinder-monitoring-of-el-nino-and-amoc|2529420",
+      "title": "Cuts to US ocean programme will hinder monitoring of El Niño and AMOC",
+      "link": "https://www.newscientist.com/article/2529420-cuts-to-us-ocean-programme-will-hinder-monitoring-of-el-nino-and-amoc/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "content": "Scientists warn that the Trump Administration's push to dismantle a vital network of ocean sensing instruments will stymie crucial weather and climate monitoring in the Pacific and Atlantic",
+      "author": null,
+      "publishedAt": "2026-06-05T17:16:15.000Z",
+      "isRead": false,
+      "createdAt": "2026-06-05T19:19:02.296Z"
+    },
+    {
+      "id": "ab4f877c-110f-4032-9877-31413157b89c",
+      "guid": "2527761-flood-of-ai-garbage-is-pushing-open-source-developers-to-the-limit|2527761",
+      "title": "Flood of AI 'garbage' is pushing open-source developers to the limit",
+      "link": "https://www.newscientist.com/article/2527761-flood-of-ai-garbage-is-pushing-open-source-developers-to-the-limit/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "content": "The modern world depends on open-source software maintained by volunteers, but the added demands of checking and fixing AI-written submissions are causing some to burn out and quit",
+      "author": null,
+      "publishedAt": "2026-06-05T15:21:45.000Z",
+      "isRead": false,
+      "createdAt": "2026-06-05T19:19:02.296Z"
+    },
+    {
+      "id": "30470530-988c-491c-8315-c236d7a0f579",
+      "guid": "2529279-a-chromosome-from-a-frozen-rat-has-been-resurrected-inside-mice|2529279",
+      "title": "A chromosome from a frozen rat has been resurrected inside mice",
+      "link": "https://www.newscientist.com/article/2529279-a-chromosome-from-a-frozen-rat-has-been-resurrected-inside-mice/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "content": "Mice that contain cells with an added rat chromosome have been created by scientists. The next step is to try this with frozen elephant tissue – and if that works, the team will try it with frozen mammoths",
+      "author": null,
+      "publishedAt": "2026-06-05T14:52:40.000Z",
+      "isRead": false,
+      "createdAt": "2026-06-05T19:19:02.296Z"
     }
   ]
 }
