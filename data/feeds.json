@@ -210,6 +210,15 @@
       "description": "New Scientist - Home",
       "createdAt": "2026-02-16T01:53:07.694Z",
       "updatedAt": "2026-02-16T01:53:07.694Z"
+    },
+    {
+      "id": "ac28901c-3aaa-486d-8964-8eb5d40353e5",
+      "title": "APOD",
+      "url": "https://apod.nasa.gov/apod.rss",
+      "siteUrl": "https://apod.nasa.gov/",
+      "description": "Astronomy Picture of the Day",
+      "createdAt": "2026-06-05T16:53:40.847Z",
+      "updatedAt": "2026-06-05T16:53:40.847Z"
     }
   ]
 }
