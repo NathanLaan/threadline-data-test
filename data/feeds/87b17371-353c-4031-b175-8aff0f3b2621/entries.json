@@ -759,6 +759,226 @@
       "publishedAt": "2026-05-27T20:10:00.000Z",
       "isRead": false,
       "createdAt": "2026-05-27T20:10:58.169Z"
+    },
+    {
+      "id": "c8c9aa1c-372a-4a55-9d08-ec170c0f4087",
+      "guid": "https://techcrunch.com/?p=3129962",
+      "title": "Supabase doubles valuation to $10B in 8 months",
+      "link": "https://techcrunch.com/2026/06/05/supabase-doubles-valuation-to-10b-in-8-months/",
+      "content": "Supabase, an example of an open source project becoming a fast-growing company, has greatly benefited from AI tools like Claude, Codex, and other vibe-coding platforms. ",
+      "author": "Julie Bort",
+      "publishedAt": "2026-06-05T16:32:27.000Z",
+      "isRead": false,
+      "createdAt": "2026-06-05T16:58:54.773Z"
+    },
+    {
+      "id": "f7b908a8-1748-4113-a8de-de390f4d5a75",
+      "guid": "https://techcrunch.com/?p=3129988",
+      "title": "Google and FBI warn of ransomware group that sends fake IT workers to hack victims in person",
+      "link": "https://techcrunch.com/2026/06/05/google-and-fbi-warn-of-ransomware-group-that-sends-fake-it-workers-to-hack-victims-in-person/",
+      "content": "Cybercriminals, part of a gang known as Silent Ransom Group, have sent people pretending to be IT support employees to law firms' offices, where the criminals have stolen data using USB drives or remote access tools.",
+      "author": "Lorenzo Franceschi-Bicchierai",
+      "publishedAt": "2026-06-05T16:07:46.000Z",
+      "isRead": false,
+      "createdAt": "2026-06-05T16:58:54.773Z"
+    },
+    {
+      "id": "855effb5-fe13-4cae-829f-19f9cfc7e975",
+      "guid": "https://techcrunch.com/?p=3129900",
+      "title": "The token bill comes due: Inside the industry scramble to manage AI’s runaway costs",
+      "link": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
+      "content": "\"The whole conversation shifted from tokenmaxxing and 'go fast' to 'we need guardrails, how do we control this?'\"",
+      "author": "Rebecca Bellan",
+      "publishedAt": "2026-06-05T14:49:12.000Z",
+      "isRead": false,
+      "createdAt": "2026-06-05T16:58:54.773Z"
+    },
+    {
+      "id": "113640e7-4d68-431a-8c98-a7d6912c4c43",
+      "guid": "https://techcrunch.com/?p=3129936",
+      "title": "NASA briefly sheltered space station astronauts in SpaceX’s Dragon due to leaks",
+      "link": "https://techcrunch.com/2026/06/05/nasa-briefly-sheltered-space-station-astronauts-in-spacexs-dragon-due-to-leaks/",
+      "content": "The space agency said Roscosmos discovered new leaks in the Russian service module.",
+      "author": "Sean O'Kane",
+      "publishedAt": "2026-06-05T14:42:52.000Z",
+      "isRead": false,
+      "createdAt": "2026-06-05T16:58:54.773Z"
+    },
+    {
+      "id": "4c7424c4-29df-44d8-a3ab-4ddde2466617",
+      "guid": "https://techcrunch.com/?p=3129906",
+      "title": "NSA said to be readying Anthropic’s Mythos for use in cyber operations",
+      "link": "https://techcrunch.com/2026/06/05/nsa-said-to-be-readying-anthropics-mythos-for-use-in-cyber-operations/",
+      "content": "The U.S. eavesdropping agency is reportedly preparing Anthropic's Mythos for use in cyberattacks, despite a federal ban on using the AI model maker.",
+      "author": "Zack Whittaker",
+      "publishedAt": "2026-06-05T14:32:57.000Z",
+      "isRead": false,
+      "createdAt": "2026-06-05T16:58:54.773Z"
+    },
+    {
+      "id": "8e2f798f-5237-46b5-a738-7fb64fec3746",
+      "guid": "https://techcrunch.com/?p=3129897",
+      "title": "AirTrunk commits $30B to build 5GW of AI data centers in India",
+      "link": "https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/",
+      "content": "The Australian data center operator plans to set up 5GW of capacity in India.",
+      "author": "Jagmeet Singh",
+      "publishedAt": "2026-06-05T13:03:10.000Z",
+      "isRead": false,
+      "createdAt": "2026-06-05T16:58:54.773Z"
+    },
+    {
+      "id": "46d51513-5a4e-4b52-9be4-ff1f196008c4",
+      "guid": "https://techcrunch.com/?p=3129889",
+      "title": "Mira Murati steps back into the spotlight, carefully",
+      "link": "https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully/",
+      "content": "In the current environment, remaining heads down has diminishing returns; at some point, you have to make some noise just to remind the market you exist.",
+      "author": "Connie Loizos",
+      "publishedAt": "2026-06-05T05:06:37.000Z",
+      "isRead": false,
+      "createdAt": "2026-06-05T16:58:54.773Z"
+    },
+    {
+      "id": "026441c4-4eac-4b0e-a34d-27c4d0893116",
+      "guid": "https://techcrunch.com/?p=3129764",
+      "title": "Founders Fund launches game show starring Sam Altman, Palmer Luckey, and other tech elites",
+      "link": "https://techcrunch.com/2026/06/04/founders-fund-launches-game-show-starring-sam-altman-palmer-luckey-and-other-tech-elites/",
+      "content": "The debut episode, moderated by Founders Fund chief marketing officer Mike Solana, included a star-studded cast of current tech luminaries.",
+      "author": "Lucas Ropek",
+      "publishedAt": "2026-06-05T00:06:47.000Z",
+      "isRead": false,
+      "createdAt": "2026-06-05T16:58:54.773Z"
+    },
+    {
+      "id": "f65d5ea9-96b7-4eb1-8092-961e33fbb418",
+      "guid": "https://techcrunch.com/?p=3129760",
+      "title": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
+      "link": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
+      "content": "Anthropic has been growing at a breakneck pace. The company announced that annualized revenue crossed $47 billion in May, up dramatically from roughly $9 billion at the end of 2025. That trajectory faces a real test, though. ",
+      "author": "Marina Temkin",
+      "publishedAt": "2026-06-04T22:43:26.000Z",
+      "isRead": false,
+      "createdAt": "2026-06-05T16:58:54.773Z"
+    },
+    {
+      "id": "42bd6577-9a7f-4cc8-9e29-d9098fb357b2",
+      "guid": "https://techcrunch.com/?p=3129805",
+      "title": "Airbnb’s Brian Chesky plans to launch a new AI lab",
+      "link": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/",
+      "content": "The Airbnb CEO said last year it hasn't struck an LLM partnership because existing products weren't quite ready.",
+      "author": "Tim Fernholz",
+      "publishedAt": "2026-06-04T22:29:50.000Z",
+      "isRead": false,
+      "createdAt": "2026-06-05T16:58:54.773Z"
+    },
+    {
+      "id": "2b370ea4-89ed-45da-8a6a-664e38348c68",
+      "guid": "https://techcrunch.com/?p=3129720",
+      "title": "Filtr is a new privacy tool that blocks ads in almost every iPhone and Mac app",
+      "link": "https://techcrunch.com/2026/06/04/filtr-is-a-new-privacy-tool-that-blocks-ads-in-almost-every-iphone-and-mac-app/",
+      "content": "This popular ad blocker app for iPhones, iPads, and Macs can now block ads from loading inside apps, including web browsers, thanks to a new feature in the latest Apple software.",
+      "author": "Zack Whittaker",
+      "publishedAt": "2026-06-04T21:44:09.000Z",
+      "isRead": false,
+      "createdAt": "2026-06-05T16:58:54.773Z"
+    },
+    {
+      "id": "445bb51f-ac2f-41e3-872d-a552fb56f46a",
+      "guid": "https://techcrunch.com/?p=3129765",
+      "title": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
+      "link": "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/",
+      "content": "On Thursday, June 18, at The Aerospace Corporation Campus, investors, founders, and tech leaders will gather for an evening of conversation exploring some of the most consequential shifts taking place across venture capital, defense technology, artificial intelligence, and advanced industry. Secure your spot today.",
+      "author": "TechCrunch Events",
+      "publishedAt": "2026-06-04T21:30:00.000Z",
+      "isRead": false,
+      "createdAt": "2026-06-05T16:58:54.773Z"
+    },
+    {
+      "id": "f1421e9b-dc4e-4a27-bb46-8ad3e19a3129",
+      "guid": "https://techcrunch.com/?p=3126857",
+      "title": "Startup Battlefield is returning to Australia — here’s what happened the last time we came to Sydney",
+      "link": "https://techcrunch.com/2026/06/04/startup-battlefield-is-returning-to-australia-heres-what-happened-the-last-time-we-came-to-sydney/",
+      "content": "On August 19, Startup Battlefield is returning to Sydney in partnership with Stripe, one of the world's most iconic technology companies. We're taking over Stripe Tour Sydney for a night that the Australian startup ecosystem won't forget. ",
+      "author": "Isabelle Johannessen",
+      "publishedAt": "2026-06-04T20:55:38.000Z",
+      "isRead": false,
+      "createdAt": "2026-06-05T16:58:54.773Z"
+    },
+    {
+      "id": "6ba127ff-10e9-437f-9439-7b4b55ab6bd3",
+      "guid": "https://techcrunch.com/?p=3129703",
+      "title": "Meta steals a tactic from Tesla and builds data centers in tents",
+      "link": "https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/",
+      "content": "Meta may have found one way to slash its massive data center bill: tents.",
+      "author": "Tim De Chant",
+      "publishedAt": "2026-06-04T19:33:09.000Z",
+      "isRead": false,
+      "createdAt": "2026-06-05T16:58:54.773Z"
+    },
+    {
+      "id": "cf3dfee6-e1cf-4989-a3fa-ad1a66314771",
+      "guid": "https://techcrunch.com/?p=3129687",
+      "title": "Apple approves Poke as the first AI agent on its Messages for Business platform",
+      "link": "https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/",
+      "content": "Poke, the startup that lets people use AI agents through simple text messages, has become the first AI agent approved for Apple’s Messages for Business platform. ",
+      "author": "Sarah Perez",
+      "publishedAt": "2026-06-04T19:20:58.000Z",
+      "isRead": false,
+      "createdAt": "2026-06-05T16:58:54.773Z"
+    },
+    {
+      "id": "5fd92f77-6bd3-4bbd-92e2-4cdaf41e7f59",
+      "guid": "https://techcrunch.com/?p=3129682",
+      "title": "Helion, the Sam Altman-backed fusion startup, raises $465M to build a power plant for Microsoft",
+      "link": "https://techcrunch.com/2026/06/04/helion-the-sam-altman-backed-fusion-startup-raises-465m-to-build-a-power-plant-for-microsoft/",
+      "content": "Fusion startup Helion is racing to complete a power plant for Microsoft by 2028. A fresh infusion of cash should help with that.",
+      "author": "Tim De Chant",
+      "publishedAt": "2026-06-04T18:54:08.000Z",
+      "isRead": false,
+      "createdAt": "2026-06-05T16:58:54.773Z"
+    },
+    {
+      "id": "e974f5f2-5347-4581-b558-aba2cf7b0ce5",
+      "guid": "https://techcrunch.com/?p=3129577",
+      "title": "Meta’s Oversight Board says account bans lack due process, transparency",
+      "link": "https://techcrunch.com/2026/06/04/metas-oversight-board-says-account-bans-lack-due-process-transparency/",
+      "content": "Meta's board cites \"due process\" concerns over account bans. It's also pushing Meta to offer clear information about violations and its use in AI in making its determinations. ",
+      "author": "Sarah Perez",
+      "publishedAt": "2026-06-04T16:47:12.000Z",
+      "isRead": false,
+      "createdAt": "2026-06-05T16:58:54.773Z"
+    },
+    {
+      "id": "400bc47c-0d9a-4957-aa54-71dce52eb806",
+      "guid": "https://techcrunch.com/?p=3129582",
+      "title": "Meta rolls out a new AI creator assistant on Facebook",
+      "link": "https://techcrunch.com/2026/06/04/meta-rolls-out-a-new-ai-creator-assistant-on-facebook/",
+      "content": "Creators often have to parse through charts and dashboards to understand their performance, but with the new AI assistant, they can get quick answers to questions like \"When should I post?\" and \"What are people saying in my comments?\" ",
+      "author": "Aisha Malik",
+      "publishedAt": "2026-06-04T16:32:48.000Z",
+      "isRead": false,
+      "createdAt": "2026-06-05T16:58:54.773Z"
+    },
+    {
+      "id": "3b31c116-d563-4377-b064-bbac0095971d",
+      "guid": "https://techcrunch.com/?p=3129597",
+      "title": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
+      "link": "https://techcrunch.com/2026/06/04/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
+      "content": "Apple's WWDC nears: Here's what you can look forward to.",
+      "author": "Lauren Forristal",
+      "publishedAt": "2026-06-04T16:31:12.000Z",
+      "isRead": false,
+      "createdAt": "2026-06-05T16:58:54.773Z"
+    },
+    {
+      "id": "d570fad5-ebed-4925-a22e-2ce93d598b6a",
+      "guid": "https://techcrunch.com/?p=3129589",
+      "title": "A burglar used a Waymo to steal yoga clothes in San Francisco — and got away with it",
+      "link": "https://techcrunch.com/2026/06/04/a-burglar-used-a-waymo-to-steal-yoga-clothes-in-sf-and-got-away-with-it/",
+      "content": "The incident helps shed some new light on how Waymo treats and stores the footage captured by its robotaxis.",
+      "author": "Sean O'Kane",
+      "publishedAt": "2026-06-04T16:16:37.000Z",
+      "isRead": false,
+      "createdAt": "2026-06-05T16:58:54.773Z"
     }
   ]
 }
